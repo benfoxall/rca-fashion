@@ -106,6 +106,10 @@ class Drop {
   }
 
   match_size() {
+    const current_display = this.options.style.display
+
+    this.options.style.display = 'block'
+
     this.current.style.width = this.options.style.width = ''
 
     const width = Math.max(
@@ -114,6 +118,8 @@ class Drop {
     )
 
     this.current.style.width = this.options.style.width = width + 'px'
+
+    this.options.style.display = current_display
   }
 }
 
