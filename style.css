@@ -60,6 +60,11 @@ footer a:nth-child(3) {
   color: #000;
 }
 
+.logo_RCA img {
+  height: 40px;
+  margin-top: -10px;
+}
+
 .drop {
   background: #000;
   color: #fff;
