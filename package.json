@@ -1,0 +1,12 @@
+{
+  "name": "rca-fashion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:benfoxall/rca-fashion.git",
+  "author": "Ben Foxall <benfoxall@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "fontfaceobserver": "^2.0.13",
+    "webpack": "^2.6.1"
+  }
+}
