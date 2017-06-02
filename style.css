@@ -1,0 +1,114 @@
+:root {
+  --red: rgb(252,17,28);
+}
+
+@font-face {
+  font-family: 'BentonSans-Bold';
+  src: url('font/BentonSans-Bold.eot');
+  src: url('font/BentonSans-Bold.woff') format('woff'),
+       url('font/BentonSans-Bold.ttf') format('truetype'),
+       url('font/BentonSans-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: BentonSans-Bold, arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+footer {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+}
+footer a {
+  flex: 1;
+}
+footer a:nth-child(2) {
+  text-align: center;
+}
+footer a:nth-child(3) {
+  text-align: right;
+}
+
+
+.foxall-studio {
+  color: #ccc;
+  font-weight: 100;
+  font-size: .75em;
+  padding-top: .25em;
+  font-family: arial, sans-serif;
+  transition: .1s;
+}
+
+.foxall-studio strong {
+  transition: .2s;
+  font-weight: 100;
+  text-decoration: underline;
+}
+
+.foxall-studio:hover {
+  color: #000;
+}
+
+.drop {
+  background: #000;
+  color: #fff;
+  display: inline-block;
+  text-align: left;
+}
+.drop ul {
+  list-style: none;
+  padding:0;
+  margin:0;
+  color: var(--red);
+  /*padding-top: .5em;*/
+}
+.drop-current li{
+  color: #fff;
+}
+.drop-current, .drop li {
+  margin: 0 1em;
+  padding: .5em 0;
+  white-space: nowrap;
+}
+.drop-options {
+  position: absolute;
+  background: #000;
+  display: none;
+}
+
+.drop-options li:nth-child(1) {
+  border-top: 1px solid var(--red);
+  padding-top: 1em;
+}
+
+.drop-options a {
+  display: block;
+}
+
+.drop-options a:hover {
+  color: #fff
+}
+
+ul.dropdown li {
+
+}
+
+.right {
+  text-align: right
+}
+
+nav label {
+  color: var(--red);
+  text-transform: uppercase;
+}
