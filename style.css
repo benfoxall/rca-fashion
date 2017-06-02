@@ -117,3 +117,62 @@ nav label {
   color: var(--red);
   text-transform: uppercase;
 }
+
+.image-index {
+  margin:0;
+  padding:0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  /*grid-template-rows: repeat(20, 40vh);*/
+}
+
+@media (max-width: 460px) {
+  .image-index {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+@media (max-width: 300px) {
+  .image-index {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+
+.image-index a {
+  display: block;
+  margin: 1em .5em;
+
+  height: 8em;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  transition: .2s;
+}
+
+.image-index a:hover {
+  transform: scale(1.02) translateY(-2px);
+}
+
+.image-index a span {
+  background-color: #fff;
+  text-transform: uppercase;
+  font-size: 0.7em;
+  padding: .25em .5em;
+  color: var(--red);
+  margin: auto;
+  transition: .2s;
+}
+
+
+main {
+  max-width: 50em;
+  margin: 5vh auto;
+}
