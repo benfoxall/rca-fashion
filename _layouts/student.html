@@ -2,30 +2,54 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>live</title>
+    <title>RCA Fashion MA 2017</title>
     <link rel="stylesheet" href="/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
-      <h1><a href="/list.html">&larr;</a>
-     [{{page.name}}]</h1>
 
-     {{content}}
+    <main class="row">
 
-     <hr />
+      <section class="side-copy col-left">
 
-     <ol>
-     {% for category in page.categories %}
-        <li>{{category}}</li>
-     {% endfor %}
-     </ol>
+        <nav class="drop">
+          <ul class="drop-current">
+            <li>{{page.name}}</li>
+          </ul>
+          <ul class="drop-options">
+            {% for student in site.students %}
+              {% if student.IGNORE == nil %}
+              <li>
+                <a href="{{student.url}}">
+                  {{student.name}}
+                </a>
+              </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </nav>
 
-     <hr />
+        {{content}}
 
-     <ul>
-     {% for item in page.items %}
-        <li><img src="{{item.src}}" style="max-width: 30em;" /></h1>
-     {% endfor %}
-     </body>
+      </section>
+
+      <section class="col-right">
+        <ul id="asset-list">
+          {% for item in page.items %}
+             <li><img src="{{item.src}}" /></h1>
+          {% endfor %}
+        </ul>
+      </section>
+    </main>
+
+
+    <footer>
+      <a href="#">Fashion MA 2017</a>
+      <a href="#" class="logo_RCA"><img src="/assets/RCA_180_Logo.png" alt="RCA/180" /></a>
+      <a href="#" class="foxall-studio">Site by <strong>Foxall Studio</strong></a>
+    </footer>
+
+    <script type="text/javascript" src="/dist/bundle.js"></script>
 
   </body>
 </html>

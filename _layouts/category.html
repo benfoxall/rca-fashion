@@ -12,6 +12,24 @@
     </style>
   </head>
   <body>
+
+
+    <nav class="right">
+      <label>Showing:</label>
+      <nav class="drop">
+        <ul class="drop-current">
+          <li>{{page.name}}</li>
+        </ul>
+        <ul class="drop-options">
+          <li><a href="/">Fashion (all)</a></li>
+          {% assign categories = site.categories | sort: 'order' %}
+          {% for category in categories %}
+            <li><a href="{{category.url}}">{{category.name}}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </nav>
+
     <h1>CATEGORY [{{page.name}}]</h1>
 
     <ol>
@@ -32,5 +50,14 @@
       {% endif %}
     {% endfor %}
     </ol>
+
+    <footer>
+      <a href="#">Fashion MA 2017</a>
+      <a href="#" class="logo_RCA"><img src="/assets/RCA_180_Logo.png" alt="RCA/180" /></a>
+      <a href="#" class="foxall-studio">Site by <strong>Foxall Studio</strong></a>
+    </footer>
+
+    <script type="text/javascript" src="/dist/bundle.js"></script>
+
   </body>
 </html>
