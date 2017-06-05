@@ -2,8 +2,8 @@
 
 name: Louis Anderson-Bythell
 
-tags:
-  - Womenswear
+categories:
+  - womenswear
 
 items:
   -

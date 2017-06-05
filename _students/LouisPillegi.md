@@ -2,9 +2,9 @@
 
 name: Louis Pillegi
 
-tags:
-  - Womenswear
-  - Womenswear / Knitwear
+categories:
+  - womenswear
+  - womenswear-knitwear
 
 items:
   -

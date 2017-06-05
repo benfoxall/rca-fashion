@@ -2,8 +2,8 @@
 
 name: Colin Horgan
 
-tags:
-  - Womenswear
+categories:
+  - womenswear
 
 items:
   -

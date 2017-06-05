@@ -2,9 +2,9 @@
 
 name: Pippa Harries
 
-tags:
-  - Womenswear
-  - Womenswear / Knitwear
+categories:
+  - womenswear
+  - womenswear-knitwear
 
 items:
   -

@@ -2,9 +2,9 @@
 
 name: Tingting Zhang
 
-tags:
-  - Womenswear
-  - Womenswear / Accessories
+categories:
+  - womenswear
+  - womenswear-accessories
 
 items:
   -

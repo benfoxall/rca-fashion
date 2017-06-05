@@ -2,9 +2,9 @@
 
 name: Catriona pringle
 
-tags:
-  - Womenswear
-  - Womenswear / Knitwear
+categories:
+  - womenswear
+  - womenswear-knitwear
 
 items:
   -

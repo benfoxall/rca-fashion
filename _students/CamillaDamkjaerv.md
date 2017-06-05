@@ -2,8 +2,8 @@
 
 name: Camilla Damkjaerv
 
-tags:
-  - Womenswear
+categories:
+  - womenswear
 
 items:
   -

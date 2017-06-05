@@ -2,8 +2,8 @@
 
 name: Fabian Kis-Juhasz
 
-tags:
-  - Womenswear
+categories:
+  - womenswear
 
 items:
   -

@@ -2,9 +2,9 @@
 
 name: Verity Germer
 
-tags:
-  - Womenswear
-  - Womenswear / Knitwear
+categories:
+  - womenswear
+  - womenswear-knitwear
 
 items:
   -

@@ -2,8 +2,8 @@
 
 name: Dan He
 
-tags:
-  - Womenswear
+categories:
+  - womenswear
 
 items:
   -

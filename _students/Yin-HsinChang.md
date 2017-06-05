@@ -2,9 +2,9 @@
 
 name: Yin-Hsin Chang
 
-tags:
-  - Womenswear
-  - Womenswear / Accessories
+categories:
+  - womenswear
+  - womenswear-accessories
 
 items:
   -

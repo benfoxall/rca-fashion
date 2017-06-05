@@ -2,9 +2,9 @@
 
 name: Kira Goodey
 
-tags:
-  - Womenswear
-  - Womenswear / Footwear
+categories:
+  - womenswear
+  - womenswear-footwear
 
 items:
   -

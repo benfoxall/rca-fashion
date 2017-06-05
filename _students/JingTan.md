@@ -2,9 +2,9 @@
 
 name: Jing Tan
 
-tags:
-  - Womenswear
-  - Womenswear / Millinery
+categories:
+  - womenswear
+  - womenswear-millinery
 
 items:
   -

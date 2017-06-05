@@ -2,9 +2,9 @@
 
 name: Christine Kinson
 
-tags:
-  - Womenswear
-  - Womenswear / Knitwear
+categories:
+  - womenswear
+  - womenswear-knitwear
 
 items:
   -

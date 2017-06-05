@@ -2,8 +2,8 @@
 
 name: Elizabeth Vale
 
-tags:
-  - Menswear
+categories:
+  - menswear
 
 items:
   -

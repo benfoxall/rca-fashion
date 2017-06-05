@@ -2,8 +2,8 @@
 
 name: (Yvonne) Yong Yue Lin
 
-tags:
-  - Womenswear
+categories:
+  - womenswear
 
 items:
   -

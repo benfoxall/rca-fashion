@@ -2,8 +2,8 @@
 
 name: Seunghee Lim
 
-tags:
-  - Menswear
+categories:
+  - menswear
 
 items:
   -

@@ -2,8 +2,8 @@
 
 name: Arnar Jonsson
 
-tags:
-  - Menswear
+categories:
+  - menswear
 
 items:
   -

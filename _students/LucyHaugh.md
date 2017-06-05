@@ -2,9 +2,9 @@
 
 name: Lucy Haugh
 
-tags:
-  - Menswear
-  - Menswear / Knitwear
+categories:
+  - menswear
+  - menswear-knitwear
 
 items:
   -

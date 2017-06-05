@@ -2,9 +2,9 @@
 
 name: Shasha Wong
 
-tags:
-  - Womenswear
-  - Womenswear / Knitwear
+categories:
+  - womenswear
+  - womenswear-knitwear
 
 items:
   -

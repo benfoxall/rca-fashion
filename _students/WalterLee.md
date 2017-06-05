@@ -2,8 +2,8 @@
 
 name: Walter Lee
 
-tags:
-  - Womenswear
+categories:
+  - womenswear
 
 items:
   -

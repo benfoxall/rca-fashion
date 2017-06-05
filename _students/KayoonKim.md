@@ -2,8 +2,8 @@
 
 name: Kayoon Kim
 
-tags:
-  - Womenswear
+categories:
+  - womenswear
 
 items:
   -

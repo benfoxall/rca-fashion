@@ -2,8 +2,8 @@
 
 name: Per Hansson
 
-tags:
-  - Menswear
+categories:
+  - menswear
 
 items:
   -

@@ -2,8 +2,8 @@
 
 name: Aubrey (Xintong) Wang
 
-tags:
-  - Womenswear
+categories:
+  - womenswear
 
 items:
   -

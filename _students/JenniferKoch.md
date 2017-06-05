@@ -2,9 +2,9 @@
 
 name: Jennifer Koch
 
-tags:
-  - Menswear
-  - Menswear / Knitwear
+categories:
+  - menswear
+  - menswear-knitwear
 
 items:
   -

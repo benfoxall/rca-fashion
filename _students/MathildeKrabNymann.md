@@ -2,8 +2,8 @@
 
 name: Mathilde Krab Nymann
 
-tags:
-  - Menswear
+categories:
+  - menswear
 
 items:
   -

@@ -2,8 +2,8 @@
 
 name: Jinwei Yin
 
-tags:
-  - Womenswear
+categories:
+  - womenswear
 
 items:
   -

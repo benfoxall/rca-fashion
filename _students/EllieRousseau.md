@@ -2,8 +2,8 @@
 
 name: Ellie Rousseau
 
-tags:
-  - Menswear
+categories:
+  - menswear
   - Knitwear
 
 items:

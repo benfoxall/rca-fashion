@@ -2,8 +2,8 @@
 
 name: Abbie Stirrup
 
-tags:
-  - Womenswear
+categories:
+  - womenswear
 
 items:
   -

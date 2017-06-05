@@ -2,8 +2,8 @@
 
 name: Matija Čop
 
-tags:
-  - Womenswear
+categories:
+  - womenswear
 
 items:
   -

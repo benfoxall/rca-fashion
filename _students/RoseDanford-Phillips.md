@@ -2,9 +2,9 @@
 
 name: Rosie Danford-Phillips
 
-tags:
-  - Womenswear
-  - Womenswear / Knitwear
+categories:
+  - womenswear
+  - womenswear-knitwear
 
 items:
   -

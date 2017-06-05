@@ -2,9 +2,9 @@
 
 name: Tiantian Deng
 
-tags:
-  - Womenswear
-  - Womenswear / Accessories
+categories:
+  - womenswear
+  - womenswear-accessories
 
 items:
   -

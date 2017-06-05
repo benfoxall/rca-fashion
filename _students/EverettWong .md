@@ -2,9 +2,9 @@
 
 name: Everett Wong
 
-tags:
-  - Menswear
-  - Menswear / Knitwear
+categories:
+  - menswear
+  - menswear-knitwear
 
 items:
   -

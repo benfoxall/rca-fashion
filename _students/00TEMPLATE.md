@@ -4,15 +4,15 @@ IGNORE: true
 
 name:
 
-tags:
-  - Menswear
-  - Menswear / Knitwear
-  - Menswear / Footwear
-  - Womenswear
-  - Womenswear / Knitwear
-  - Womenswear / Millinery
-  - Womenswear / Footwear
-  - Womenswear / Accessories
+categories:
+  - menswear
+  - menswear-knitwear
+  - menswear-footwear
+  - womenswear
+  - womenswear-knitwear
+  - womenswear-millinery
+  - womenswear-footwear
+  - womenswear-accessories
 
 
 items:

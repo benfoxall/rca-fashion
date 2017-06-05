@@ -2,8 +2,8 @@
 
 name: Sophie Condren
 
-tags:
-  - Menswear
+categories:
+  - menswear
 
 items:
   -

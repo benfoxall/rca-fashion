@@ -2,8 +2,8 @@
 
 name: Misora Nakamori
 
-tags:
-  - Womenswear
+categories:
+  - womenswear
 
 items:
   -

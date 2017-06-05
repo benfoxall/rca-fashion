@@ -2,9 +2,9 @@
 
 name: Binbin Hu
 
-tags:
-  - Womenswear
-  - Womenswear / Knitwear
+categories:
+  - womenswear
+  - womenswear-knitwear
 
 items:
   -

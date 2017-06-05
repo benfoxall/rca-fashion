@@ -2,8 +2,8 @@
 
 name: Han Kim
 
-tags:
-  - Womenswear
+categories:
+  - womenswear
 
 items:
   -

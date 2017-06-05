@@ -2,9 +2,9 @@
 
 name: Matthew Duffy
 
-tags:
-  - Menswear
-  - Menswear / Knitwear
+categories:
+  - menswear
+  - menswear-knitwear
 
 items:
   -

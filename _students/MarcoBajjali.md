@@ -2,8 +2,8 @@
 
 name: Marco Bajjali
 
-tags:
-  - Menswear
+categories:
+  - menswear
 
 items:
   -

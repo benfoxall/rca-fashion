@@ -2,9 +2,9 @@
 
 name: Richard Szuman
 
-tags:
-  - Menswear
-  - Menswear / Knitwear
+categories:
+  - menswear
+  - menswear-knitwear
 
 items:
   -

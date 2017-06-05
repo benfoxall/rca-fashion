@@ -2,8 +2,8 @@
 
 name: Bianca Saunders
 
-tags:
-  - Menswear
+categories:
+  - menswear
 
 items:
   -

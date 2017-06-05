@@ -4,7 +4,7 @@ IGNORE: true
 
 name: Ellie Rosseau
 
-tags:
+categories:
   - menswear
   - hats
 

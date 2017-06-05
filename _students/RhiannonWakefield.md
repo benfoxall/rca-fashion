@@ -2,8 +2,8 @@
 
 name: Rhiannon Wakefield
 
-tags:
-  - Menswear
+categories:
+  - menswear
 
 items:
   -

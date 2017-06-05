@@ -2,8 +2,8 @@
 
 name: Charlotte McDonald
 
-tags:
-  - Menswear
+categories:
+  - menswear
 
 items:
   -
