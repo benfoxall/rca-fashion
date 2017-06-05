@@ -3,7 +3,7 @@
 name: Ellie Rosseau
 
 tags:
-  - menswear
+  - womenswear
   - hats
 
 items:
