@@ -9,8 +9,9 @@ items:
   -
     type: image
     src: /student_assets/xxxxxx.jpg
-  -
+
 ---
+
 * [Email](mailto:mathilde.krab-nymann@network.rca.ac.uk)
 
 **Describe your influences**

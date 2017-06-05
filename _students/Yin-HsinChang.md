@@ -10,8 +10,9 @@ items:
   -
     type: image
     src: /student_assets/xxxxxx.jpg
-  -
+
 ---
+
 * [Email](mailto:yin-hsin.chang@network.rca.ac.uk)
 {: .social-links}
 

@@ -9,9 +9,9 @@ items:
   -
     type: image
     src: /student_assets/xxxxxx.jpg
-  -
 
 ---
+
 * [Email](mailto:dan.he@network.rca.ac.uk)
 {: .social-links}
 

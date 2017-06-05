@@ -10,7 +10,7 @@ items:
   -
     type: image
     src: /student_assets/xxxxxx.jpg
-  -
+
 ---
 
 * [instagram_handle](https://www.instagram.com/catrionapringle/)

@@ -7,31 +7,33 @@ tags:
   - Knitwear
 
 items:
--
-  type: image
-  src: /student_assets/EllieR_1.jpg
--
-  type: image
-  src: /student_assets/EllieR_2.jpg
--
-  type: image
-  src: /student_assets/EllieR_3.jpg
--
-  type: image
-  src: /student_assets/EllieR_4.jpg
--
-  type: image
-  src: /student_assets/EllieR_5.jpg
--
-  type: image
-  src: /student_assets/EllieR_6.jpg
--
-  type: image
-  src: /student_assets/EllieR_7.jpg
--
-  type: image
-  src: /student_assets/EllieR_8.jpg
+  -
+    type: image
+    src: /student_assets/EllieR_1.jpg
+  -
+    type: image
+    src: /student_assets/EllieR_2.jpg
+  -
+    type: image
+    src: /student_assets/EllieR_3.jpg
+  -
+    type: image
+    src: /student_assets/EllieR_4.jpg
+  -
+    type: image
+    src: /student_assets/EllieR_5.jpg
+  -
+    type: image
+    src: /student_assets/EllieR_6.jpg
+  -
+    type: image
+    src: /student_assets/EllieR_7.jpg
+  -
+    type: image
+    src: /student_assets/EllieR_8.jpg
+
 ---
+
 * [instagram_handle](https://www.instagram.com/ellierousseau/)
 * [Email](mailto:eleanor.rousseau@network.rca.ac.uk)
 

@@ -28,6 +28,7 @@ items:
   -
     type: image
     src: /student_assets/AlisonM_7.jpg
+
 ---
 
 * [Instagram](https://www.instagram.com/bettywhenyoucallme/)

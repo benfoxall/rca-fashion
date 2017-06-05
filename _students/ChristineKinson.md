@@ -5,13 +5,14 @@ name: Christine Kinson
 tags:
   - Womenswear
   - Womenswear / Knitwear
-  
+
 items:
   -
     type: image
     src: /student_assets/xxxxxx.jpg
-  -
+
 ---
+
 * [instagram_handle](https://www.instagram.com/@christinetkinson/)
 * [Email](mailto:christine.kinson@network.rca.ac.uk)
 {: .social-links}

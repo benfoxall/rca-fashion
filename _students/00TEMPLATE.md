@@ -23,7 +23,6 @@ items:
 
 ---
 
-
 * [instagram_handle](https://www.instagram.com/XX/)
 * [Web](https://XX.com)
 * [Email](mailto:xx@rca.ac.uk)

@@ -9,9 +9,9 @@ items:
   -
     type: image
     src: /student_assets/xxxxxx.jpg
-  -
 
 ---
+
 * [instagram_handle](https://www.instagram.com/__misora__/)
 * [Email](mailto:misora.nakamori@network.rca.ac.uk)
 {: .social-links}

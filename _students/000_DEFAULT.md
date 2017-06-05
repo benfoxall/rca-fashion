@@ -20,6 +20,7 @@ items:
     src: /student_assets/ellie-3.jpg
 
 ---
+
 * [instagram_handle](https://www.instagram.com/louispileggi/)
 * [ellie.com](https://ellie.com)
 {: .social-links}

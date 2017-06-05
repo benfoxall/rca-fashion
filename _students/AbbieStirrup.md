@@ -6,37 +6,39 @@ tags:
   - Womenswear
 
 items:
--
-  type: image
-  src: /student_assets/AbbieS_1.jpg
--
-  type: image
-  src: /student_assets/AbbieS_2.jpg
--
-  type: image
-  src: /student_assets/AbbieS_3.jpg
--
-  type: image
-  src: /student_assets/AbbieS_4.jpg
--
-  type: image
-  src: /student_assets/AbbieS_5.jpg
--
-  type: image
-  src: /student_assets/AbbieS_6.jpg
--
-  type: image
-  src: /student_assets/AbbieS_7.jpg
--
-  type: image
-  src: /student_assets/AbbieS_8.jpg
--
-  type: image
-  src: /student_assets/AbbieS_9.jpg
--
-  type: image
-  src: /student_assets/AbbieS_10.jpg
+  -
+    type: image
+    src: /student_assets/AbbieS_1.jpg
+  -
+    type: image
+    src: /student_assets/AbbieS_2.jpg
+  -
+    type: image
+    src: /student_assets/AbbieS_3.jpg
+  -
+    type: image
+    src: /student_assets/AbbieS_4.jpg
+  -
+    type: image
+    src: /student_assets/AbbieS_5.jpg
+  -
+    type: image
+    src: /student_assets/AbbieS_6.jpg
+  -
+    type: image
+    src: /student_assets/AbbieS_7.jpg
+  -
+    type: image
+    src: /student_assets/AbbieS_8.jpg
+  -
+    type: image
+    src: /student_assets/AbbieS_9.jpg
+  -
+    type: image
+    src: /student_assets/AbbieS_10.jpg
+
 ---
+
 * [instagram_handle](https://www.instagram.com/Abbie.stirrup/)
 * [Email](mailto:abbie.stirrup@network.rca.ac.uk)
 {: .social-links}

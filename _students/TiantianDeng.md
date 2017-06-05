@@ -10,7 +10,7 @@ items:
   -
     type: image
     src: /student_assets/xxxxxx.jpg
-  -
+
 ---
 
 * [Email](mailto:tiantian.deng@network.rca.ac.uk)

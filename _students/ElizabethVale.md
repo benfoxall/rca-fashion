@@ -9,8 +9,9 @@ items:
   -
     type: image
     src: /student_assets/xxxxxx.jpg
-  -
+
 ---
+
 * [instagram_handle](https://www.instagram.com/eddy.studio/)
 * [Web](https://www.eddy-studio.com)
 * [Email](mailto:elizabeth.vale@network.rca.ac.uk)

@@ -9,8 +9,9 @@ items:
   -
     type: image
     src: /student_assets/xxxxxx.jpg
-  -
+
 ---
+
 * [instagram_handle](https://www.instagram.com/colinhorgan/)
 * [Email](mailto:colin.horgan@network.rca.ac.uk)
 

@@ -10,8 +10,9 @@ items:
   -
     type: image
     src: /student_assets/xxxxxx.jpg
-  -
+
 ---
+
 * [instagram_handle](https://www.instagram.com/veritycsg/)
 * [Email](mailto:verity.germer@network.rca.ac.uk)
 {: .social-links}

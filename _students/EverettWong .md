@@ -3,8 +3,8 @@
 name: Everett Wong
 
 tags:
-- Menswear
-- Menswear / Knitwear
+  - Menswear
+  - Menswear / Knitwear
 
 items:
   -
@@ -18,6 +18,7 @@ items:
     src: /student_assets/everitt-3.jpg
 
 ---
+
 * [Email](mailto:everett.wong@network.rca.ac.uk)
 
 **Describe your influences**

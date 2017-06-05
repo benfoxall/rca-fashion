@@ -10,9 +10,9 @@ items:
   -
     type: image
     src: /student_assets/xxxxxx.jpg
-  -
 
 ---
+
 * [Email](mailto:binbin.hu@network.rca.ac.uk)
 {: .social-links}
 

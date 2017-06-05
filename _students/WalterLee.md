@@ -9,8 +9,9 @@ items:
   -
     type: image
     src: /student_assets/xxxxxx.jpg
-  -
+
 ---
+
 * [instagram_handle](https://www.instagram.com/@walter.lee/)
 * [Email](mailto:walter.lee@network.rca.ac.uk)
 {: .social-links}
