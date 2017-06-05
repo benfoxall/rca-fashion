@@ -176,3 +176,59 @@ main {
   max-width: 50em;
   margin: 5vh auto;
 }
+
+
+.side-copy {
+  width: 15em;
+}
+
+.side-copy p {
+  font-weight: 100;
+  font-size: .75em;
+}
+.side-copy p strong {
+  text-decoration: underline;
+}
+
+.side-copy .drop {
+  margin-bottom: 1em;
+}
+
+.social-links a{
+  color: var(--red);
+  font-size: .75em;
+  display: block;
+  text-decoration: underline;
+}
+
+
+.row {
+  display: flex
+}
+
+.row .col-left {
+  flex: 1;
+  padding-right: 1em;
+}
+
+.row .col-right {
+  flex: 2;
+  overflow-x: hidden;
+}
+
+
+#asset-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  /*height: 100vh*/
+}
+
+#asset-list li {
+  /*height: 100vh*/
+}
+
+#asset-list li img {
+  object-fit: scale-down;
+  width: 100%
+}
