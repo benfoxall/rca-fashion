@@ -1,20 +1,31 @@
-<body>
-<h1>STUDENT - {{page.name}}</h1>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>live</title>
+    <link rel="stylesheet" href="/style.css">
+  </head>
+  <body>
+      <h1><a href="/list.html">&larr;</a>
+     [{{page.name}}]</h1>
 
-{{content}}
+     {{content}}
 
-<hr />
+     <hr />
 
-<ul>
-{% for tag in page.tags %}
-   <li>{{tag}}</li>
-{% endfor %}
-</ul>
+     <ol>
+     {% for tag in page.tags %}
+        <li>{{tag}}</li>
+     {% endfor %}
+     </ol>
 
-<hr />
+     <hr />
 
-<ul>
-{% for item in page.items %}
-   <li><img src="{{item.src}}" style="max-width: 30em;" /></h1>
-{% endfor %}
-</body>
+     <ul>
+     {% for item in page.items %}
+        <li><img src="{{item.src}}" style="max-width: 30em;" /></h1>
+     {% endfor %}
+     </body>
+
+  </body>
+</html>
