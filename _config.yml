@@ -3,6 +3,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  categories:
+    output: true
+    permalink: /:path/
+
 
 defaults:
   - scope:
@@ -10,3 +14,8 @@ defaults:
       type: students
     values:
       layout: student
+  - scope:
+      path: ""
+      type: categories
+    values:
+      layout: category
