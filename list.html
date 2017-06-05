@@ -1,0 +1,29 @@
+---
+
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>live</title>
+    <link rel="stylesheet" href="style.css">
+    <style media="screen">
+      small {font-size: 0.5em; opacity: 0.4}
+      li { list-style: none; margin:0;}
+      a {display: block;transition: .1s}
+      a:hover{ color:var(--red)}
+    </style>
+  </head>
+  <body>
+    <ul>
+    {% for student in site.students %}
+      {% if student.IGNORE == nil %}
+      <li>
+        <a href="{{student.url}}">
+          {{student.name}} <small>{{student.id}}</small>
+        </a>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </body>
+</html>
