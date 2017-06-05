@@ -1,0 +1,12 @@
+collections:
+  students:
+    output: true
+    permalink: /:collection/:path/
+
+
+defaults:
+  - scope:
+      path: ""
+      type: students
+    values:
+      layout: student

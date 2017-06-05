@@ -1,0 +1,20 @@
+<body>
+<h1>STUDENT - {{page.name}}</h1>
+
+{{content}}
+
+<hr />
+
+<ul>
+{% for tag in page.tags %}
+   <li>{{tag}}</li>
+{% endfor %}
+</ul>
+
+<hr />
+
+<ul>
+{% for item in page.items %}
+   <li><img src="{{item.src}}" style="max-width: 30em;" /></h1>
+{% endfor %}
+</body>
