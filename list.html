@@ -12,6 +12,12 @@
       li { list-style: none; margin:0;}
       a {display: block;transition: .1s}
       a:hover{ color:var(--red)}
+      a.item {
+        display: inline-block;
+      }
+      a.item img {
+        max-height: 3em;
+      }
     </style>
   </head>
   <body>
@@ -22,6 +28,13 @@
         <a href="{{student.url}}">
           {{student.name}} <small>{{student.id}}</small>
         </a>
+        {% for item in student.items %}
+          {% if item.src != '/student_assets/xxxxxx.jpg' %}
+          <a href="{{item.src}}" class="item">
+            <img src="{{item.src | replace: '/student_assets/', '/student_assets_resized/' }}" />
+          </a>
+          {% endif %}
+        {% endfor %}
       </li>
       {% endif %}
     {% endfor %}
