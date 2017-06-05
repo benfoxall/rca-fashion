@@ -1,6 +1,6 @@
 ---
 
-name:
+name: Rosie Danford-Phillips
 
 tags:
   - Womenswear

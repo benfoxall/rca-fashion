@@ -1,6 +1,6 @@
 ---
 
-name:
+name: Matija Čop
 
 tags:
   - Womenswear

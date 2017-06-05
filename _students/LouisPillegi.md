@@ -1,6 +1,6 @@
 ---
 
-name:
+name: Louis Pillegi
 
 tags:
   - Womenswear

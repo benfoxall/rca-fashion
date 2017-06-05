@@ -1,6 +1,6 @@
 ---
 
-name:
+name: Kira Goodey
 
 tags:
   - Womenswear
