@@ -1,3 +1,5 @@
+# baseurl: /2017
+
 collections:
   students:
     output: true
