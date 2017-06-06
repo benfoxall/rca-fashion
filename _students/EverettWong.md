@@ -22,7 +22,7 @@ items:
   -
     type: image
     src: /student_assets/EverettW_5.jpg
-    -
+  -
     type: image
     src: /student_assets/EverettW_6.jpg
 
