@@ -7,13 +7,34 @@ categories:
   - womenswear-knitwear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
+-
+  type: image
+  src: /student_assets/LouisP_1.jpg
+-
+  type: image
+  src: /student_assets/LouisP_2.jpg
+-
+  type: image
+  src: /student_assets/LouisP_3.jpg
+-
+  type: image
+  src: /student_assets/LouisP_4.jpg
+-
+  type: image
+  src: /student_assets/LouisP_5.jpg
+-
+  type: image
+  src: /student_assets/LouisP_6.jpg
+-
+  type: image
+  src: /student_assets/LouisP_7.jpg
+-
+  type: image
+  src: /student_assets/LouisP_8.jpg
 
 ---
 
-* [instagram_handle](https://www.instagram.com/@louispileggi/)
+* [@louispileggi](https://www.instagram.com/louispileggi/)
 * [Email](mailto:louis.pileggi@network.rca.ac.uk)
 {: .social-links}
 

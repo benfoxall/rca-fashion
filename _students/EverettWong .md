@@ -9,13 +9,22 @@ categories:
 items:
   -
     type: image
-    src: /student_assets/everitt-1.jpg
+    src: /student_assets/EverettW_1.jpg
   -
     type: image
-    src: /student_assets/everitt-2.jpg
+    src: /student_assets/EverettW_2.jpg
   -
     type: image
-    src: /student_assets/everitt-3.jpg
+    src: /student_assets/EverettW_3.jpg
+  -
+    type: image
+    src: /student_assets/EverettW_4.jpg
+  -
+    type: image
+    src: /student_assets/EverettW_5.jpg
+    -
+    type: image
+    src: /student_assets/EverettW_6.jpg
 
 ---
 

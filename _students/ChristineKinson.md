@@ -7,13 +7,31 @@ categories:
   - womenswear-knitwear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
+-
+  type: image
+  src: /student_assets/ChristineK_1.jpg
+-
+  type: image
+  src: /student_assets/ChristineK_2.jpg
+-
+  type: image
+  src: /student_assets/ChristineK_3.jpg
+-
+  type: image
+  src: /student_assets/ChristineK_4.jpg
+-
+  type: image
+  src: /student_assets/ChristineK_5.jpg
+-
+  type: image
+  src: /student_assets/ChristineK_6.jpg
+-
+  type: image
+  src: /student_assets/ChristineK_7.jpg
 
 ---
 
-* [instagram_handle](https://www.instagram.com/@christinetkinson/)
+* [@christinetkinson](https://www.instagram.com/christinetkinson/)
 * [Email](mailto:christine.kinson@network.rca.ac.uk)
 {: .social-links}
 

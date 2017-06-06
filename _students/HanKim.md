@@ -6,13 +6,41 @@ categories:
   - womenswear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
+-
+  type: image
+  src: /student_assets/HanK_1.jpg
+-
+  type: image
+  src: /student_assets/HanK_2.jpg
+-
+  type: image
+  src: /student_assets/HanK_3.jpg
+-
+  type: image
+  src: /student_assets/HanK_4.jpg
+-
+  type: image
+  src: /student_assets/HanK_5.jpg
+-
+  type: image
+  src: /student_assets/HanK_6.jpg
+-
+  type: image
+  src: /student_assets/HanK_7.jpg
+-
+  type: image
+  src: /student_assets/HanK_8.jpg
+-
+  type: image
+  src: /student_assets/HanK_9.jpg
+-
+  type: image
+  src: /student_assets/HanK_10.jpg
 
 ---
 
-* [instagram_handle](https://www.instagram.com/hankimhan/)
+* [@hankimhan](https://www.instagram.com/hankimhan/)
+* [hankim.co.uk](https://www.hankim.co.uk)
 * [Email](mailto:han.kim@network.rca.ac.uk)
 {: .social-links}
 

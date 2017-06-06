@@ -9,11 +9,26 @@ categories:
 items:
   -
     type: image
-    src: /student_assets/xxxxxx.jpg
+    src: /student_assets/JenniferK_1.jpg
+  -
+    type: image
+    src: /student_assets/JenniferK_2.jpg
+  -
+    type: image
+    src: /student_assets/JenniferK_3.jpg
+  -
+    type: image
+    src: /student_assets/JenniferK_4.jpg
+  -
+    type: image
+    src: /student_assets/JenniferK_5.jpg
+  -
+    type: image
+    src: /student_assets/JenniferK_6.jpg
 
 ---
 
-* [instagram_handle](https://www.instagram.com/JenakinCatwalker/)
+* [@JenakinCatwalker](https://www.instagram.com/JenakinCatwalker/)
 * [Email](mailto:jennifer.koch@network.rca.ac.uk)
 {: .social-links}
 

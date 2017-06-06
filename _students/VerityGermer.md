@@ -8,17 +8,49 @@ categories:
 
 items:
   -
+  -
     type: image
-    src: /student_assets/xxxxxx.jpg
+    src: /student_assets/VerityG_1.jpg
+  -
+    type: image
+    src: /student_assets/VerityG_2.jpg
+  -
+    type: image
+    src: /student_assets/VerityG_3.jpg
+  -
+    type: image
+    src: /student_assets/VerityG_4.jpg
+  -
+    type: image
+    src: /student_assets/VerityG_5.jpg
+  -
+    type: image
+    src: /student_assets/VerityG_6.jpg
+  -
+    type: image
+    src: /student_assets/VerityG_7.jpg
+  -
+    type: image
+    src: /student_assets/VerityG_8.jpg
+  -
+    type: image
+    src: /student_assets/VerityG_9.jpg
+  -
+    type: image
+    src: /student_assets/VerityG_10.jpg
+  -
+    type: image
+    src: /student_assets/VerityG_11.jpg
 
 ---
 
 * [instagram_handle](https://www.instagram.com/veritycsg/)
+* [veritygermer.co.uk](https://www.veritygermer.co.uk)
 * [Email](mailto:verity.germer@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
-nepenthe: Something capable of causing oblivion of grief or suffering
+Nepenthe: Something capable of causing oblivion of grief or suffering.
 My work is inspired by comfortable, tangible spaces and the control of balanced interaction between disparate materials. I explored methods of creating physical and emotional comfort through tactile processes and experimentation with material and form. I created a series of objects and a material archive, which intrigued, pleased and satisfied the consumer and sat in the fascinating space where something is unusual enough to intrigue but familiar enough to induce interaction.  Emphasis is placed on visceral forms and surfaces which might intrigue the viewer, who is encouraged to interact with the garments .The alienation often found in luxury fashion is eliminated.  A slower, more considered process is achieved with techniques that are easily commercialized and all garments are fully fashioned to encourage the appreciation of the materiality. I aim to avoid the over intellectualisation of the work to allow a more personal connection to the garments and therefore a nepenthean value.
 
 **What does the future of fashion look like?**

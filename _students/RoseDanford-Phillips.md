@@ -7,13 +7,36 @@ categories:
   - womenswear-knitwear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
-
+-
+  type: image
+  src: /student_assets/RosieD_1.jpg
+-
+  type: image
+  src: /student_assets/RosieD_2.jpg
+-
+  type: image
+  src: /student_assets/RosieD_3.jpg
+-
+  type: image
+  src: /student_assets/RosieD_4.jpg
+-
+  type: image
+  src: /student_assets/RosieD_5.jpg
+-
+  type: image
+  src: /student_assets/RosieD_6.jpg
+-
+  type: image
+  src: /student_assets/RosieD_7.jpg
+-
+  type: image
+  src: /student_assets/RosieD_8.jpg
+-
+  type: image
+  src: /student_assets/RosieD_9.jpg
 ---
 
-* [instagram_handle](https://www.instagram.com/modernbaroque/)
+* [@modernbaroque](https://www.instagram.com/modernbaroque/)
 * [Email](mailto:rose.danfordphillips@network.rca.ac.uk)
 {: .social-links}
 

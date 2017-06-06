@@ -6,13 +6,39 @@ categories:
   - womenswear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
-
+-
+  type: image
+  src: /student_assets/WalterL_1.jpg
+-
+  type: image
+  src: /student_assets/WalterL_2.jpg
+-
+  type: image
+  src: /student_assets/WalterL_3.jpg
+-
+  type: image
+  src: /student_assets/WalterL_4.jpg
+-
+  type: image
+  src: /student_assets/WalterL_5.jpg
+-
+  type: image
+  src: /student_assets/WalterL_6.jpg
+-
+  type: image
+  src: /student_assets/WalterL_7.jpg
+-
+  type: image
+  src: /student_assets/WalterL_8.jpg
+-
+  type: image
+  src: /student_assets/WalterL_9.jpg
+-
+  type: image
+  src: /student_assets/WalterL_10.jpg
 ---
 
-* [instagram_handle](https://www.instagram.com/@walter.lee/)
+* [@walter.lee](https://www.instagram.com/walter.lee/)
 * [Email](mailto:walter.lee@network.rca.ac.uk)
 {: .social-links}
 

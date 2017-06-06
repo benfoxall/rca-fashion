@@ -6,19 +6,36 @@ categories:
   - menswear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
+-
+  type: image
+  src: /student_assets/SophieC_1.jpg
+-
+  type: image
+  src: /student_assets/SophieC_2.jpg
+-
+  type: image
+  src: /student_assets/SophieC_3.jpg
+-
+  type: image
+  src: /student_assets/SophieC_4.jpg
+-
+  type: image
+  src: /student_assets/SophieC_5.jpg
+-
+  type: image
+  src: /student_assets/SophieC_6.jpg
+-
+  type: image
+  src: /student_assets/SophieC_7.jpg
 
 ---
 
-* [instagram_handle](https://www.instagram.com/@sophiecondren/)
+* [@sophiecondren](https://www.instagram.com/sophiecondren/)
 * [Web](https://http://www.sophiecondren.co.uk)
 * [Email](mailto:sophie.condren@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
-Describe your influences.  
 I like everything that you're not supposed to
 like, finding things that no one wants and then giving them a new life
 which they didn't necessarily want, not up cycling though - maybe down

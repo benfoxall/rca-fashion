@@ -6,13 +6,21 @@ categories:
   - womenswear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
-
+-
+  type: image
+  src: /student_assets/CamillaD_1.jpg
+-
+  type: image
+  src: /student_assets/CamillaD_2.jpg
+-
+  type: image
+  src: /student_assets/CamillaD_3.jpg
+-
+  type: image
+  src: /student_assets/CamillaD_4.jpg
 ---
 
-* [instagram_handle](https://www.instagram.com/camilla.damkjaer/)
+* [@camilla.damkjaer](https://www.instagram.com/camilla.damkjaer/)
 * [Email](mailto:camilla.damkjaer@network.rca.ac.uk)
 {: .social-links}
 

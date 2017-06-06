@@ -7,13 +7,25 @@ categories:
   - menswear-knitwear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
+-
+  type: image
+  src: /student_assets/LucyH_1.jpg
+-
+  type: image
+  src: /student_assets/LucyH_2.jpg
+-
+  type: image
+  src: /student_assets/LucyH_3.jpg
+-
+  type: image
+  src: /student_assets/LucyH_4.jpg
+-
+  type: image
+  src: /student_assets/LucyH_5.jpg
 
 ---
 
-* [instagram_handle](https://www.instagram.com/lucy_haugh/)
+* [lucy_haugh](https://www.instagram.com/lucy_haugh/)
 * [Email](mailto:lucy.haugh@network.rca.ac.uk)
 
 **Describe your influences**

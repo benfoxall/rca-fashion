@@ -6,13 +6,33 @@ categories:
   - menswear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
-
+-
+  type: image
+  src: /student_assets/ElizabethV_1.jpg
+-
+  type: image
+  src: /student_assets/ElizabethV_2.jpg
+-
+  type: image
+  src: /student_assets/ElizabethV_3.jpg
+-
+  type: image
+  src: /student_assets/ElizabethV_4.jpg
+-
+  type: image
+  src: /student_assets/ElizabethV_5.jpg
+-
+  type: image
+  src: /student_assets/ElizabethV_6.jpg
+-
+  type: image
+  src: /student_assets/ElizabethV_7.jpg
+-
+  type: image
+  src: /student_assets/ElizabethV_8.jpg
 ---
 
-* [instagram_handle](https://www.instagram.com/eddy.studio/)
+* [@eddy.studio](https://www.instagram.com/eddy.studio/)
 * [Web](https://www.eddy-studio.com)
 * [Email](mailto:elizabeth.vale@network.rca.ac.uk)
 

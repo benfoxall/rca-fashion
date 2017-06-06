@@ -6,13 +6,28 @@ categories:
   - menswear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
-
+-
+  type: image
+  src: /student_assets/CharlotteM_1.jpg
+-
+  type: image
+  src: /student_assets/CharlotteM_2.jpg
+-
+  type: image
+  src: /student_assets/CharlotteM_3.jpg
+-
+  type: image
+  src: /student_assets/CharlotteM_4.jpg
+-
+  type: image
+  src: /student_assets/CharlotteM_5.jpg
+-
+  type: image
+  src: /student_assets/CharlotteM_6.jpg
 ---
 
-* [instagram_handle](https://www.instagram.com/charlotte.m.mcdonald/)
+* [@charlotte.m.mcdonald/](https://www.instagram.com/charlotte.m.mcdonald/)
+* [cmmstudio.co.uk](https://www.cmmstudio.co.uk)
 * [Email](mailto:charlotte.mcdonald@network.rca.ac.uk)
 {: .social-links}
 

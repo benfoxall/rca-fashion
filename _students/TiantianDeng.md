@@ -7,12 +7,33 @@ categories:
   - womenswear-accessories
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
+-
+  type: image
+  src: /student_assets/TiantianD_1.jpg
+-
+  type: image
+  src: /student_assets/TiantianD_2.jpg
+-
+  type: image
+  src: /student_assets/TiantianD_3.jpg
+-
+  type: image
+  src: /student_assets/TiantianD_4.jpg
+-
+  type: image
+  src: /student_assets/TiantianD_5.jpg
+-
+  type: image
+  src: /student_assets/TiantianD_6.jpg
+-
+  type: image
+  src: /student_assets/TiantianD_7.jpg
+-
+  type: image
+  src: /student_assets/TiantianD_8.jpg
 
 ---
-
+* [@tiantiantian_deng](https://www.instagram.com/tiantiantian_deng/)
 * [Email](mailto:tiantian.deng@network.rca.ac.uk)
 {: .social-links}
 

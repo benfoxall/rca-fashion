@@ -13,8 +13,7 @@ items:
 
 ---
 
-* [instagram_handle](https://www.instagram.com/@Szumanman/)
-* [Web](https://XX.com)
+* [@Szumanman](https://www.instagram.com/Szumanman/)
 * [Email](mailto:richard.szuman@network.rca.ac.uk)
 {: .social-links}
 

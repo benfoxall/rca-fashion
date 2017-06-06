@@ -6,13 +6,37 @@ categories:
   - womenswear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
+-
+  type: image
+  src: /student_assets/LouisA_1.jpg
+-
+  type: image
+  src: /student_assets/LouisA_2.jpg
+-
+  type: image
+  src: /student_assets/LouisA_3.jpg
+-
+  type: image
+  src: /student_assets/LouisA_4.jpg
+-
+  type: image
+  src: /student_assets/LouisA_5.jpg
+-
+  type: image
+  src: /student_assets/LouisA_6.jpg
+-
+  type: image
+  src: /student_assets/LouisA_7.jpg
+-
+  type: image
+  src: /student_assets/LouisA_8.jpg
+-
+  type: image
+  src: /student_assets/LouisA_9.jpg
 
 ---
 
-* [instagram_handle](https://www.instagram.com/@__l.a.b__/)
+* [@__l.a.b__](https://www.instagram.com/__l.a.b__/)
 * [Email](mailto:l.alderson-bythell@network.rca.ac.uk)
 {: .social-links}
 

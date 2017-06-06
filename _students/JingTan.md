@@ -13,7 +13,7 @@ items:
 
 ---
 
-* [instagram_handle](https://www.instagram.com/jingsophiaa.t/)
+* [@jingsophiaa.t](https://www.instagram.com/jingsophiaa.t/)
 * [Email](mailto:jing.tan@network.rca.ac.uk)
 {: .social-links}
 

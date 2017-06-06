@@ -7,10 +7,24 @@ categories:
   - menswear-knitwear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
-
+-
+  type: image
+  src: /student_assets/MatthewD_1.jpg
+-
+  type: image
+  src: /student_assets/MatthewD_2.jpg
+-
+  type: image
+  src: /student_assets/MatthewD_3.jpg
+-
+  type: image
+  src: /student_assets/MatthewD_4.jpg
+-
+  type: image
+  src: /student_assets/MatthewD_5.jpg
+-
+  type: image
+  src: /student_assets/MatthewD_6.jpg
 ---
 
 * [Email](mailto:matthew.duffy@network.rca.ac.uk)

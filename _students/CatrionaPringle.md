@@ -7,13 +7,28 @@ categories:
   - womenswear-knitwear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
+-
+  type: image
+  src: /student_assets/CatrionaP_1.jpg
+-
+  type: image
+  src: /student_assets/CatrionaP_2.jpg
+-
+  type: image
+  src: /student_assets/CatrionaP_3.jpg
+-
+  type: image
+  src: /student_assets/CatrionaP_4.jpg
+-
+  type: image
+  src: /student_assets/CatrionaP_5.jpg
+-
+  type: image
+  src: /student_assets/CatrionaP_6.jpg
 
 ---
 
-* [instagram_handle](https://www.instagram.com/catrionapringle/)
+* [@catrionapringle](https://www.instagram.com/catrionapringle/)
 * [Email](mailto:catriona.pringle@network.rca.ac.uk)
 {: .social-links}
 

@@ -38,13 +38,12 @@ items:
     src: /student_assets/AbbieS_10.jpg
 
 ---
-
-* [instagram_handle](https://www.instagram.com/Abbie.stirrup/)
-* [Email](mailto:abbie.stirrup@network.rca.ac.uk)
+* [@bbie.stirrup](https://www.instagram.com/Abbie.stirrup/)
+* [email](mailto:abbie.stirrup@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
-Personal life experiences. Reaching a high level of conciseness, people who are fuckin' determined and creatively talented. COLOUR & LIFE  
+Personal life experiences. Reaching a high level of conciseness, people who are fuckin' determined and creatively talented. COLOUR & LIFE.  
 
 **What does the future of fashion look like?**
 Squish and boredom of high fashion domination.

@@ -6,13 +6,34 @@ categories:
   - menswear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
+-
+  type: image
+  src: /student_assets/RhiannonW_1.jpg
+-
+  type: image
+  src: /student_assets/RhiannonW_2.jpg
+-
+  type: image
+  src: /student_assets/RhiannonW_3.jpg
+-
+  type: image
+  src: /student_assets/RhiannonW_4.jpg
+-
+  type: image
+  src: /student_assets/RhiannonW_5.jpg
+-
+  type: image
+  src: /student_assets/RhiannonW_6.jpg
+-
+  type: image
+  src: /student_assets/RhiannonW_7.jpg
+-
+  type: image
+  src: /student_assets/RhiannonW_8.jpg
 
 ---
 
-* [instagram_handle](https://www.instagram.com/rhiannonwakefield/)
+* [@rhiannonwakefield](https://www.instagram.com/rhiannonwakefield/)
 * [Email](mailto:rhiannon.wakefield@network.rca.ac.uk)
 {: .social-links}
 

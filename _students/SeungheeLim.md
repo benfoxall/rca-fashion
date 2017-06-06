@@ -6,10 +6,30 @@ categories:
   - menswear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
-
+-
+  type: image
+  src: /student_assets/SeungheeL_1.jpg
+-
+  type: image
+  src: /student_assets/SeungheeL_2.jpg
+-
+  type: image
+  src: /student_assets/SeungheeL_3.jpg
+-
+  type: image
+  src: /student_assets/SeungheeL_4.jpg
+-
+  type: image
+  src: /student_assets/SeungheeL_5.jpg
+-
+  type: image
+  src: /student_assets/SeungheeL_6.jpg
+-
+  type: image
+  src: /student_assets/SeungheeL_7.jpg
+-
+  type: image
+  src: /student_assets/SeungheeL_8.jpg
 ---
 
 * [Email](mailto:seunghee.lim@network.rca.ac.uk)
@@ -25,7 +45,7 @@ After looking back from my surroundings, I started from the frame of a ready-mea
 A less trend driven system that promotes individual tastes.
 
 **Best moment of the MA?**
-The fruition of my ideas culminates in my work.
+The fruition of my ideas culminate in my work.
 
 **What's next?**
 I want to continue the idea of encapsulating an entire package in relation to the garment and it peripherals.

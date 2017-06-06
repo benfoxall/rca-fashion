@@ -7,13 +7,36 @@ categories:
   - womenswear-knitwear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
-
+-
+  type: image
+  src: /student_assets/PippaH_1.jpg
+-
+  type: image
+  src: /student_assets/PippaH_2.jpg
+-
+  type: image
+  src: /student_assets/PippaH_3.jpg
+-
+  type: image
+  src: /student_assets/PippaH_4.jpg
+-
+  type: image
+  src: /student_assets/PippaH_5.jpg
+-
+  type: image
+  src: /student_assets/PippaH_6.jpg
+-
+  type: image
+  src: /student_assets/PippaH_7.jpg
+-
+  type: image
+  src: /student_assets/PippaH_8.jpg
+-
+  type: image
+  src: /student_assets/PippaH_9.jpg
 ---
 
-* [instagram_handle](https://www.instagram.com/pip_harries/)
+* [@pip_harries](https://www.instagram.com/pip_harries/)
 * [Email](mailto:pippa.harries@network.rca.ac.uk)
 {: .social-links}
 

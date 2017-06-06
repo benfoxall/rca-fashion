@@ -6,13 +6,33 @@ categories:
   - menswear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
-
+-
+  type: image
+  src: /student_assets/MarcoB_1.jpg
+-
+  type: image
+  src: /student_assets/MarcoB_2.jpg
+-
+  type: image
+  src: /student_assets/MarcoB_3.jpg
+-
+  type: image
+  src: /student_assets/MarcoB_4.jpg
+-
+  type: image
+  src: /student_assets/MarcoB_5.jpg
+-
+  type: image
+  src: /student_assets/MarcoB_6.jpg
+-
+  type: image
+  src: /student_assets/MarcoB_7.jpg
+-
+  type: image
+  src: /student_assets/MarcoB_8.jpg
 ---
 
-* [instagram_handle](https://www.instagram.com/@marcobajjali/)
+* [@marcobajjali](https://www.instagram.com/marcobajjali/)
 * [Email](mailto:marco.bajjali@network.rca.ac.uk)
 {: .social-links}
 

@@ -6,13 +6,39 @@ categories:
   - menswear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
-
+-
+  type: image
+  src: /student_assets/PerH_1.jpg
+-
+  type: image
+  src: /student_assets/PerH_2.jpg
+-
+  type: image
+  src: /student_assets/PerH_3.jpg
+-
+  type: image
+  src: /student_assets/PerH_4.jpg
+-
+  type: image
+  src: /student_assets/PerH_5.jpg
+-
+  type: image
+  src: /student_assets/PerH_6.jpg
+-
+  type: image
+  src: /student_assets/PerH_7.jpg
+-
+  type: image
+  src: /student_assets/PerH_8.jpg
+-
+  type: image
+  src: /student_assets/PerH_9.jpg
+-
+  type: image
+  src: /student_assets/PerH_10.jpg
 ---
 
-* [instagram_handle](https://www.instagram.com/@hanssonper/)
+* [@hanssonper](https://www.instagram.com/hanssonper/)
 * [Email](mailto:per.hansson@network.rca.ac.uk)
 {: .social-links}
 

@@ -31,10 +31,10 @@ items:
   -
     type: image
     src: /student_assets/EllieR_8.jpg
-
 ---
 
-* [instagram_handle](https://www.instagram.com/ellierousseau/)
+* [@ellierousseau](https://www.instagram.com/ellierousseau/)
+* [wowowrousseau.com](https://www.wowowrousseau.com)
 * [Email](mailto:eleanor.rousseau@network.rca.ac.uk)
 
 **Describe your influences**

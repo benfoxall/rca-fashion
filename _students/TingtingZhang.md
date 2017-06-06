@@ -7,13 +7,34 @@ categories:
   - womenswear-accessories
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
-
+-
+  type: image
+  src: /student_assets/TingtingZ_1.jpg
+-
+  type: image
+  src: /student_assets/TingtingZ_2.jpg
+-
+  type: image
+  src: /student_assets/TingtingZ_3.jpg
+-
+  type: image
+  src: /student_assets/TingtingZ_4.jpg
+-
+  type: image
+  src: /student_assets/TingtingZ_5.jpg
+-
+  type: image
+  src: /student_assets/TingtingZ_6.jpg
+-
+  type: image
+  src: /student_assets/TingtingZ_7.jpg
+-
+  type: image
+  src: /student_assets/TingtingZ_8.jpg
 ---
 
-* [instagram_handle](https://www.instagram.com/tingtingtingzz/)
+* [@tingtingtingzz](https://www.instagram.com/tingtingtingzz/)
+* [tingtingzhang.co.uk](https://www.tingtingzhang.co.uk)
 * [Email](mailto:tingting.zhang@network.rca.ac.uk)
 {: .social-links}
 

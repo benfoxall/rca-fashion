@@ -6,13 +6,35 @@ categories:
   - womenswear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
+-
+  type: image
+  src: /student_assets/ColinH_1.jpg
+-
+  type: image
+  src: /student_assets/ColinH_2.jpg
+-
+  type: image
+  src: /student_assets/ColinH_3.jpg
+-
+  type: image
+  src: /student_assets/ColinH_4.jpg
+-
+  type: image
+  src: /student_assets/ColinH_5.jpg
+-
+  type: image
+  src: /student_assets/ColinH_6.jpg
+-
+  type: image
+  src: /student_assets/ColinH_7.jpg
+-
+  type: image
+  src: /student_assets/ColinH_8.jpg
 
 ---
 
 * [instagram_handle](https://www.instagram.com/colinhorgan/)
+* [http://1granary.com/](http://1granary.com/schools/royal-college-of-art/work-progress-colin-horgan/)
 * [Email](mailto:colin.horgan@network.rca.ac.uk)
 
 **Describe your influences**

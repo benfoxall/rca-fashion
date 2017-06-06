@@ -7,14 +7,24 @@ categories:
   - womenswear-knitwear
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
-
+-
+  type: image
+  src: /student_assets/ShashaW_1.jpg
+-
+  type: image
+  src: /student_assets/ShashaW_2.jpg
+-
+  type: image
+  src: /student_assets/ShashaW_3.jpg
+-
+  type: image
+  src: /student_assets/ShashaW_4.jpg
+-
+  type: image
+  src: /student_assets/ShashaW_5.jpg
 ---
 
-* [instagram_handle](https://www.instagram.com/shashawong5/)
-* [Web](https://XX.com)
+* [@shashawong5](https://www.instagram.com/shashawong5/)
 * [Email](mailto:shasha.wong@network.rca.ac.uk)
 {: .social-links}
 

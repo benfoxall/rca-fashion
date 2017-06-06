@@ -8,11 +8,18 @@ categories:
 items:
   -
     type: image
-    src: /student_assets/xxxxxx.jpg
-
+    src: /student_assets/FabianK_1.jpg
+  -
+    type: image
+    src: /student_assets/FabianK_2.jpg
+  -
+    type: image
+    src: /student_assets/FabianK_3.jpg
+  -
+    type: image
+    src: /student_assets/FabianK_4.jpg
 ---
-
-* [instagram_handle](https://www.instagram.com/fabiankisjuhasz/)
+* [@fabiankisjuhasz](https://www.instagram.com/fabiankisjuhasz/)
 * [Email](mailto:fabian.kis-juhasz@network.rca.ac.uk)
 {: .social-links}
 

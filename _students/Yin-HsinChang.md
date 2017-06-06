@@ -7,10 +7,30 @@ categories:
   - womenswear-accessories
 
 items:
-  -
-    type: image
-    src: /student_assets/xxxxxx.jpg
-
+-
+  type: image
+  src: /student_assets/YinH_1.jpg
+-
+  type: image
+  src: /student_assets/YinH_2.jpg
+-
+  type: image
+  src: /student_assets/YinH_3.jpg
+-
+  type: image
+  src: /student_assets/YinH_4.jpg
+-
+  type: image
+  src: /student_assets/YinH_5.jpg
+-
+  type: image
+  src: /student_assets/YinH_6.jpg
+-
+  type: image
+  src: /student_assets/YinH_7.jpg
+-
+  type: image
+  src: /student_assets/YinH_8.jpg
 ---
 
 * [Email](mailto:yin-hsin.chang@network.rca.ac.uk)
