@@ -1,47 +1,35 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>RCA Fashion MA 2017</title>
-    <link rel="stylesheet" href="/style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  </head>
-  <body>
-    <main class="row">
-      <section class="side-copy col-left">
-        <nav class="drop">
-          <ul class="drop-current">
-            <li>{{page.name}}</li>
-          </ul>
-          <ul class="drop-options">
-            {% for student in site.students %}
-              {% if student.IGNORE == nil %}
-              <li>
-                <a href="{{student.url}}">
-                  {{student.name}}
-                </a>
-              </li>
-              {% endif %}
-            {% endfor %}
-          </ul>
-        </nav>
+---
+layout: base
+---
 
-        {{content}}
+<main class="row">
+  <section class="side-copy col-left">
+    <nav class="drop">
+      <ul class="drop-current">
+        <li>{{page.name}}</li>
+      </ul>
+      <ul class="drop-options">
+        {% for student in site.students %}
+          {% if student.IGNORE == nil %}
+          <li>
+            <a href="{{student.url}}">
+              {{student.name}}
+            </a>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
 
-      </section>
+    {{content}}
 
-      <section class="col-right">
-        <ul id="asset-list">
-          {% for item in page.items %}
-             <li><img src="{{item.src}}" /></h1>
-          {% endfor %}
-        </ul>
-      </section>
-    </main>
+  </section>
 
-    {% include footer.html %}
-
-    <script type="text/javascript" src="/dist/bundle.js"></script>
-
-  </body>
-</html>
+  <section class="col-right">
+    <ul id="asset-list">
+      {% for item in page.items %}
+         <li><img src="{{item.src}}" /></h1>
+      {% endfor %}
+    </ul>
+  </section>
+</main>

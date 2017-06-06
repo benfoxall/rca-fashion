@@ -1,65 +1,48 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>live</title>
-    <link rel="stylesheet" href="/style.css">
-    <style media="screen">
-      small {font-size: 0.5em; opacity: 0.4}
-      li { list-style: none; margin:0;}
-      a {display: block;transition: .1s}
-      a:hover{ color:var(--red)}
-    </style>
-  </head>
-  <body>
-    <nav class="right">
-      <label>Showing:</label>
-      <nav class="drop">
-        <ul class="drop-current">
+---
+layout: base
+---
+
+<nav class="right">
+  <label>Showing:</label>
+  <nav class="drop">
+    <ul class="drop-current">
+      <li>
+        {% if page.key == nil %}
+          Fashion (all)
+        {% else %}
+          {{page.name}}
+        {% endif %}
+      </li>
+    </ul>
+    <ul class="drop-options">
+      <li><a href="/">Fashion (all)</a></li>
+      {% assign categories = site.categories | sort: 'order' %}
+      {% for category in categories %}
+        <li><a href="{{category.url}}">{{category.name}}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</nav>
+
+<main>
+  <ul class="image-index">
+    {% for student in site.students %}
+      {% if student.IGNORE == nil %}
+        {% if student.categories contains page.key or page.key == nil %}
+          {% assign thumb =
+              student.items
+                | map: 'src'
+                | first
+                | replace: '/student_assets/', '/student_assets_resized/'
+          %}
+
           <li>
-            {% if page.key == nil %}
-              Fashion (all)
-            {% else %}
-              {{page.name}}
-            {% endif %}
+            <a href="{{student.url}}" style="background-image:url({{thumb}})">
+              <span>{{student.name}}</span>
+            </a>
           </li>
-        </ul>
-        <ul class="drop-options">
-          <li><a href="/">Fashion (all)</a></li>
-          {% assign categories = site.categories | sort: 'order' %}
-          {% for category in categories %}
-            <li><a href="{{category.url}}">{{category.name}}</a></li>
-          {% endfor %}
-        </ul>
-      </nav>
-    </nav>
-
-    <main>
-      <ul class="image-index">
-        {% for student in site.students %}
-          {% if student.IGNORE == nil %}
-            {% if student.categories contains page.key or page.key == nil %}
-              {% assign thumb =
-                  student.items
-                    | map: 'src'
-                    | first
-                    | replace: '/student_assets/', '/student_assets_resized/'
-              %}
-
-              <li>
-                <a href="{{student.url}}" style="background-image:url({{thumb}})">
-                  <span>{{student.name}}</span>
-                </a>
-              </li>
-            {% endif %}
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </main>
-
-    {% include footer.html %}
-
-    <script type="text/javascript" src="/dist/bundle.js"></script>
-
-  </body>
-</html>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+</main>
