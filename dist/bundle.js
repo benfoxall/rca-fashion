@@ -86,6 +86,7 @@ z(p,function(a){h=a;u()});t(p,L(c,'"'+c.family+'",monospace'))})})}; true?module
 
 var FontFaceObserver = __webpack_require__(0)
 
+const qs = document.querySelector.bind(document)
 const qsa = document.querySelectorAll.bind(document)
 
 class Drop {
@@ -95,12 +96,11 @@ class Drop {
     this.options = element.querySelector('.drop-options')
     this.match_size()
 
+    // this kind of works on mobile
     this.root.addEventListener('mouseenter', () => {
-      console.log("mouse in")
       this.options.style.display = 'block'
     }, false)
     this.root.addEventListener('mouseleave', () => {
-      console.log("mouse out")
       this.options.style.display = 'none'
     }, false)
   }
@@ -127,15 +127,16 @@ const drops = Array.from(qsa('.drop'))
   .map(drop => new Drop(drop))
 
 
-
 var font = new FontFaceObserver('BentonSans-Bold')
 
 font.load().then(function () {
-  console.log('BentonSans loaded')
-
   drops
     .forEach(d => d.match_size())
 })
+
+
+// TODO
+// const assetList = qs('#asset-list')
 
 
 /***/ })
