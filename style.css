@@ -241,6 +241,15 @@ main {
 }
 
 
+@media (max-width: 460px) {
+  .row {
+    flex-direction: column;
+  }
+  .side-copy {
+    width: auto;
+  }
+}
+
 #asset-list {
   list-style: none;
   padding: 0;
