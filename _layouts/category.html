@@ -13,12 +13,17 @@
   </head>
   <body>
 
-
     <nav class="right">
       <label>Showing:</label>
       <nav class="drop">
         <ul class="drop-current">
-          <li>{{page.name}}</li>
+          <li>
+            {% if page.key == nil %}
+              Fashion (all)
+            {% else %}
+              {{page.name}}
+            {% endif %}
+          </li>
         </ul>
         <ul class="drop-options">
           <li><a href="/">Fashion (all)</a></li>
@@ -30,26 +35,28 @@
       </nav>
     </nav>
 
-    <h1>CATEGORY [{{page.name}}]</h1>
+    <main>
+      <ul class="image-index">
+        {% for student in site.students %}
+          {% if student.IGNORE == nil %}
+            {% if student.categories contains page.key or page.key == nil %}
+              {% assign thumb =
+                  student.items
+                    | map: 'src'
+                    | first
+                    | replace: '/student_assets/', '/student_assets_resized/'
+              %}
 
-    <ol>
-    {% assign categories = site.categories | sort: 'order' %}
-    {% for category in categories %}
-      <li><a href="{{category.url}}">{{category.name}}</a></li>
-    {% endfor %}
-    </ol>
-
-    <ol>
-    {% for student in site.students %}
-      {% if student.IGNORE == nil %}
-        {% if student.categories contains page.key %}
-          <a href="{{student.url}}">
-            {{student.name}} <small>{{student.id}}</small>
-          </a>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    </ol>
+              <li>
+                <a href="{{student.url}}" style="background-image:url({{thumb}})">
+                  <span>{{student.name}}</span>
+                </a>
+              </li>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </main>
 
     <footer>
       <a href="#">Fashion MA 2017</a>
