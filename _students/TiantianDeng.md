@@ -34,7 +34,7 @@ items:
 
 ---
 * [@tiantiantian_deng](https://www.instagram.com/tiantiantian_deng/)
-* [Email](mailto:tiantian.deng@network.rca.ac.uk)
+* [email](mailto:tiantian.deng@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
