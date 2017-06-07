@@ -63,9 +63,9 @@ footer a:nth-child(3) {
 .logo_FMA { }
 
 .foxall-studio {
-  color: #ccc;
+  color: #aaa;
   font-weight: 100;
-  font-size: .75em;
+  font-size: .85em;
   font-family: arial, sans-serif;
   transition: .1s;
 }
@@ -307,7 +307,25 @@ main { }
     flex-direction: column;
   }
   .side-copy {
+    margin-top: 3em;
     width: auto;
+  }
+  nav.right {
+    left: 0;
+    right: auto;
+  }
+  nav.left {
+    top: 60px;
+  }
+  .row {
+    margin-top: 6em
+  }
+}
+
+/* small iphoneish */
+@media (max-width: 350px) {
+  body {
+    font-size: 70%
   }
 }
 
