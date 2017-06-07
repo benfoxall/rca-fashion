@@ -48,4 +48,4 @@ Fashion has become a way of communicating our personalities. The clothing we cho
 I would say the best part in RCA is the amazing people you meet here. Especially when making our final project together in the studio. So stressful but exciting.
 
 **What's next?**
-In my collection, I use laminate marquetry to create my suitcase's surface. I will continue experiment with this technology and transform it into other forms. I also hope to gain more experience in accessory design in a large fashion house.
+In my collection, I used laminate marquetry to create my suitcase's surface. I will continue to experiment with this technology and transform it into other forms. I also hope to gain more experience in accessory design in a large fashion house.
