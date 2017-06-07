@@ -28,6 +28,7 @@ I am highly influenced by technology, engineering, materials, especially challen
 
 **What does the future of fashion look like?**
 There is no future if everyone is just producing clothes; I mean there’s more than enough of them already. Despite the amount of fashion graduates ever year, the collections from fashion houses and designers every season are going at a ridiculously high pace. Do we really need that?
+
 Future, how far away? In 30 or 50 years later? I feel Biotechnology would overtake, scientists and engineers would become the fashion designers or maybe in reverse.  It would come to a stage where body and garment starts to interact with each other. The garment would be able to adapt to the needs of the body and become self-aware of it surroundings, changing and evolving to suit the need of the wearer.
 
 **Best moment of the MA?**
