@@ -20,7 +20,7 @@ items:
   src: /student_assets/DanH_4.jpg
 ---
 
-* [Email](mailto:dan.he@network.rca.ac.uk)
+* [email](mailto:dan.he@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
