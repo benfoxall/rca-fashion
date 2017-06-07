@@ -12,7 +12,7 @@ items:
 
 ---
 
-* [Email](mailto:mathilde.krab-nymann@network.rca.ac.uk)
+* [email](mailto:mathilde.krab-nymann@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
