@@ -30,9 +30,11 @@ items:
     src: /student_assets/AlisonM_7.jpg
 
 ---
+
 * [@bettywhenyoucallme](https://www.instagram.com/bettywhenyoucallme/)
 * [bettywhenyoucallme.com](https://www.bettywhenyoucallme.com.com)
 * [email](mailto:alison.hopemurray@network.rca.ac.uk)
+{: .social-links}
 
 **Describe your influences**
 My influences come from every day life. Every day experiences. I make things in response to needs I have. The needs I have are created and curated by the people around me. From the beach to bush and back again.

@@ -24,7 +24,6 @@ items:
 
 * [@gcoxoncordwainer](https://www.instagram.com/gcoxoncordwainer/)
 * [Email](mailto:georgia.coxon@network.rca.ac.uk)
-
 {: .social-links}
 
 **Describe your influences**

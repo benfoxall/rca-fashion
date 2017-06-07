@@ -13,6 +13,7 @@ items:
 ---
 
 * [Email](mailto:mathilde.krab-nymann@network.rca.ac.uk)
+{: .social-links}
 
 **Describe your influences**
 Throughout my study, my work has been deeply influenced by philosophy and personal thoughts. Thoughts that have made me reconsider prior assumptions or caused me to revaluate and reflect - words that have provoked my imagination and even forced me to see things from a different perspective.

@@ -29,6 +29,7 @@ items:
 ---
 
 * [Email](mailto:everett.wong@network.rca.ac.uk)
+{: .social-links}
 
 **Describe your influences**
 Colonialism provides boundless fascination as a concept which ceaselessly works in pursuit of empty dominance. This inspires me to find the commonalities shared through the shapes and patterns within the Eastern world, and trying to find a different vision of visual and cultural harmony, beyond the hyperbolic banality of western appropriation.

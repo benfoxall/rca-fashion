@@ -35,6 +35,7 @@ items:
 * [@eddy.studio](https://www.instagram.com/eddy.studio/)
 * [Web](https://www.eddy-studio.com)
 * [Email](mailto:elizabeth.vale@network.rca.ac.uk)
+{: .social-links}
 
 **Describe your influences**
 The past is the present and the past is the future. Eddy is a project archiving menswear dress in the name of affection. A summer on Sark, the tiny island situated in the English Channel. This strange idyll that is Sark is poised to embrace democracy, and an ancient way of life may disappear for ever. An island of affection and memory. Stories half remembered, elaborated and endlessly retold. Reaching the realms previously only glimpsed from photographs. Moments that have drifted ashore in our seas of time.

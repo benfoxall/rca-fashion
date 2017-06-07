@@ -26,6 +26,7 @@ items:
 ---
 * [@kiragoodeyfootwear](https://www.instagram.com/kiragoodeyfootwear/)
 * [Email](mailto:kira.goodey@network.rca.ac.uk)
+{: .social-links}
 
 **What does the future of fashion look like?**
 We are on the brink of a paradigm shift in terms of the way fashion is designed, manufactured and sold – one that will usurp the ready-to-wear mass produced culture currently in place. This movement will be much more grassroots and empowering to smaller manufacturers. I believe the collision of technology and a resurgence of craft – a desire for personalised items and the human touch – will lead to a new manufacturing systems based around networked cottage industries.

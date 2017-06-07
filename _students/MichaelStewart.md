@@ -28,3 +28,4 @@ items:
 ---
 
 * [Email](mailto:michael.stewart@network.rca.ac.uk)
+{: .social-links}

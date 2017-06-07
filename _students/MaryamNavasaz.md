@@ -34,6 +34,7 @@ items:
 ---
 
 * [Email](mailto:maryam.navasaz@network.rca.ac.uk)
+{: .social-links}
 
 **Describe your influences**
 My influences come from real experience - an experience that I feel needs to be spoken of and formed into an expression. In this collection are my voice and the voice of many other women in my country. It describes the feeling of being a women in Iran today (after the Islamic revolution in 1979). I was inspired by the art works of Shitin Neshat, Dr. Azade Fatehrad and an Iranian movie called Khandahar.

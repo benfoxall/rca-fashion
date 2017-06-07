@@ -36,6 +36,7 @@ items:
 * [@ellierousseau](https://www.instagram.com/ellierousseau/)
 * [wowowrousseau.com](https://www.wowowrousseau.com)
 * [Email](mailto:eleanor.rousseau@network.rca.ac.uk)
+{: .social-links}
 
 **Describe your influences**
 I’ve always been interested in clothing as a form of identification and the authenticity seen in subcultures and style tribes. I describe my work as Documentary Fashion and for this collection I reflected my experiences of Northern youth culture and took inspiration from nostalgic photographs to explore stages of youth maturity and escapism through the underground rave scene.

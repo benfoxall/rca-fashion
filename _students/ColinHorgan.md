@@ -36,6 +36,7 @@ items:
 * [instagram_handle](https://www.instagram.com/colinhorgan/)
 * [http://1granary.com/](http://1granary.com/schools/royal-college-of-art/work-progress-colin-horgan/)
 * [Email](mailto:colin.horgan@network.rca.ac.uk)
+{: .social-links}
 
 **Describe your influences**
 My influences are a combination of physical and virtual women growing up.

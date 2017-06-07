@@ -27,6 +27,7 @@ items:
 
 * [lucy_haugh](https://www.instagram.com/lucy_haugh/)
 * [Email](mailto:lucy.haugh@network.rca.ac.uk)
+{: .social-links}
 
 **Describe your influences**
 From taking photos of myself wrapped in a tent to making a soft, hanging sculpture that I recorded fellow students moving in. My work is born from the performance of making itself, observing and using the results of these performances to spark design ideas.  

@@ -28,6 +28,7 @@ items:
 ---
 
 * [Email](mailto:matthew.duffy@network.rca.ac.uk)
+{: .social-links}
 
 **Describe your influences**
 My collection is a reaction to growing up in the northern town of Middlesbrough, where I didn’t fit in with the deeply heteronormative culture. In my process I examine the traditional but complex gender performances of my family, including my football-star brother and beauty pageant-winning Indian mother.
