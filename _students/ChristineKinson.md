@@ -32,7 +32,7 @@ items:
 ---
 
 * [@christinetkinson](https://www.instagram.com/christinetkinson/)
-* [Email](mailto:christine.kinson@network.rca.ac.uk)
+* [email](mailto:christine.kinson@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
