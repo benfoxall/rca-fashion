@@ -1,6 +1,6 @@
 ---
 
-name: Jinwei Yin
+name: Jingwei Yin
 
 categories:
   - womenswear
