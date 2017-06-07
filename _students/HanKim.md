@@ -54,7 +54,7 @@ beauty.
 It will look like an absurd dream of ourselves.
 
 **Best moment of the MA?**
-Tutorials with Tristan Webber
+Tutorials with Tristan Webber.
 
 **What's next?**
 PROVIDE THE WEARABLE FASHION FROM MY SHOW PIECES AND ANOTHER UNTOLD STORY
