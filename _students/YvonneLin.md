@@ -12,7 +12,7 @@ items:
 
 ---
 
-* [Email](mailto:yongyue.lin@network.rca.ac.uk)
+* [email](mailto:yongyue.lin@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
