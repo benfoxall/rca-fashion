@@ -39,7 +39,7 @@ items:
 {: .social-links}
 
 **Describe your influences**
-I am intrigued by objects that serve no purposes besides to exist and potentially decorate a space. I purchase and collect anything that I find humorous or beautiful. The instinct of wanting something then finding a benign purpose for it inspires me. Any artist or designer that explores bad taste influences me. I love BAD things.
+I am intrigued by objects that serve no purpose besides to exist and potentially decorate a space. I purchase and collect anything that I find humorous or beautiful. The instinct of wanting something then finding a benign purpose for it inspires me. Any artist or designer that explores bad taste influences me. I love BAD things.
 
 **What does the future of fashion look like?**
 Im hoping completely tasteless .... but probably more high tech and completely overly functional.
