@@ -35,7 +35,7 @@ items:
 
 * [@ellierousseau](https://www.instagram.com/ellierousseau/)
 * [wowowrousseau.com](https://www.wowowrousseau.com)
-* [Email](mailto:eleanor.rousseau@network.rca.ac.uk)
+* [email](mailto:eleanor.rousseau@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
