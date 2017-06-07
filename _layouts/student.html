@@ -10,10 +10,10 @@ layout: base
       </li>
     </ul>
     <ul class="drop-options">
-      <li><a href="/">Fashion (all)</a></li>
+      <li><a href="{{ site.baseurl }}/">Fashion (all)</a></li>
       {% assign categories = site.categories | sort: 'order' %}
       {% for category in categories %}
-        <li><a href="{{category.url}}">{{category.name}}</a></li>
+        <li><a href="{{ site.baseurl }}{{category.url}}">{{category.name}}</a></li>
       {% endfor %}
     </ul>
   </nav>
@@ -28,7 +28,7 @@ layout: base
       {% for student in site.students %}
         {% if student.IGNORE == nil %}
         <li>
-          <a href="{{student.url}}">
+          <a href="{{ site.baseurl }}{{student.url}}">
             {{student.name}}
           </a>
         </li>
@@ -37,23 +37,18 @@ layout: base
     </ul>
   </nav>
 </nav>
-
 <main class="row">
   <section class="side-copy col-left">
-
     {{content}}
-
   </section>
-
   <section class="col-right">
     <ul id="asset-list">
       {% for item in page.items %}
-         <li><img src="{{item.src}}" /></h1>
+         <li><img src="{{ site.baseurl }}{{item.src}}" /></h1>
       {% endfor %}
     </ul>
   </section>
 </main>
-
 
 <script type="text/javascript">
 
@@ -61,20 +56,11 @@ var observer = new IntersectionObserver((intersections)=> {
   intersections.forEach(intersect => {
     intersect.target.classList.toggle('offscreen', !intersect.isIntersecting)
   })
-  // console.log("intesect", e)
-});
-
+})
 
 Array.from(document.querySelectorAll('#asset-list li'))
 .forEach(img => {
   observer.observe(img);
 })
 
-// var options = {
-// root: document.querySelector('#scrollArea'),
-// rootMargin: '0px',
-// threshold: 1.0
-// }
-
-// var observer = new IntersectionObserver(callback, options);
 </script>

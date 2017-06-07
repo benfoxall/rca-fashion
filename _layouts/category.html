@@ -14,10 +14,10 @@ layout: base
       </li>
     </ul>
     <ul class="drop-options">
-      <li><a href="/">Fashion (all)</a></li>
+      <li><a href="{{ site.baseurl }}/">Fashion (all)</a></li>
       {% assign categories = site.categories | sort: 'order' %}
       {% for category in categories %}
-        <li><a href="{{category.url}}">{{category.name}}</a></li>
+        <li><a href="{{ site.baseurl }}{{category.url}}">{{category.name}}</a></li>
       {% endfor %}
     </ul>
   </nav>
@@ -33,10 +33,11 @@ layout: base
                 | map: 'src'
                 | first
                 | replace: '/student_assets/', '/student_assets_resized/'
+                | relative_url
           %}
 
           <li>
-            <a href="{{student.url}}" style="background-image:url({{thumb}})">
+            <a href="{{ site.baseurl }}{{student.url}}" style="background-image:url({{thumb}})">
               <span>{{student.name}}</span>
             </a>
           </li>
