@@ -20,7 +20,7 @@ body {
 
 body:before {
   content: '';
-  border-bottom: 2px solid var(--red);
+  border-bottom: 1px solid var(--red);
   position: fixed;
   z-index: -1;
   left: 0;
@@ -89,13 +89,13 @@ footer a:nth-child(3) {
   display: inline-block;
   text-align: left;
   text-transform: uppercase;
+  letter-spacing: .2em;
 }
 .drop ul {
   list-style: none;
   padding:0;
   margin:0;
   color: var(--red);
-  /*padding-top: .5em;*/
 }
 .drop-current li{
   color: #fff;
@@ -105,9 +105,11 @@ footer a:nth-child(3) {
   padding: .5em 0;
   white-space: nowrap;
 }
-.drop-options {
+
+.drop ul.drop-options {
   position: absolute;
   background: #000;
+  padding-bottom: .5em;
   display: none;
 }
 
@@ -128,8 +130,12 @@ ul.dropdown li {
 
 }
 
-.right {
-  text-align: right
+nav.right {
+  text-align: right;
+  padding: 1em;
+  position: fixed;
+  right:0;
+  z-index: 100
 }
 
 nav label {
@@ -143,15 +149,9 @@ nav label {
   list-style: none;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  /*grid-template-rows: repeat(20, 40vh);*/
 }
 
-@media (max-width: 460px) {
-  .image-index {
-    grid-template-columns: 1fr 1fr 1fr;
-  }
-}
-@media (max-width: 300px) {
+@media (max-width: 720px) {
   .image-index {
     grid-template-columns: 1fr 1fr;
   }
@@ -162,7 +162,9 @@ nav label {
   display: block;
   margin: 1em .5em;
 
-  height: 8em;
+  letter-spacing: .2em;
+
+  height: 15em;
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -177,8 +179,9 @@ nav label {
 }
 
 .image-index a:hover {
-  transform: scale(1.02) translateY(-2px);
+  transform: scale(1.1) translateY(-10px)
 }
+
 
 .image-index a span {
   background-color: #fff;
@@ -191,10 +194,7 @@ nav label {
 }
 
 
-main {
-  max-width: 50em;
-  margin: 0 auto;
-}
+main { }
 
 
 .side-copy {
