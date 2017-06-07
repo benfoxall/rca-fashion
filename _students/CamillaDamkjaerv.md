@@ -21,7 +21,7 @@ items:
 ---
 
 * [@camilla.damkjaer](https://www.instagram.com/camilla.damkjaer/)
-* [Email](mailto:camilla.damkjaer@network.rca.ac.uk)
+* [email](mailto:camilla.damkjaer@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
