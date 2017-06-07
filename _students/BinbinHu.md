@@ -32,7 +32,7 @@ items:
 {: .social-links}
 
 **Describe your influences**
-When I think about my identity, I start thinking of the space that cannot be eliminated in a relationship — a theme I will always be interested in. Inspired by observing the smokers on the street, I did a performance of the smoking moment to reveal the most ordinary scene of my daily life and to try and record the relations of the smokers. Exploring the negative spaces between the smokers that they feel comfortable with and the position that they choose to stand in. These are all telling the stories of the relationship and the invisible spaces that exist between people.
+When I think about my identity, I start thinking of the space that cannot be eliminated in a relationship — a theme I will always be interested in. Inspired by observing the smokers on the street, I did a performance of the smoking moment to reveal the most ordinary scene of my daily life and to try and record the relations of the smokers: the negative spaces between the smokers they feel comfortable with and the position that they choose to stand in. These are all telling the stories of the relationship and the invisible spaces that exist between people.
 
 **What does the future of fashion look like?**
 Fashion is not only an industry for the future; it could be a path to art.
