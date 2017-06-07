@@ -134,7 +134,8 @@ nav.right {
   text-align: right;
   padding: 1em;
   position: fixed;
-  right:0;
+  right: 0;
+  top: 0;
   z-index: 100
 }
 
@@ -145,6 +146,7 @@ nav label {
 
 .image-index {
   margin:0;
+  margin-top: 4em;
   padding:0;
   list-style: none;
   display: grid;
@@ -157,6 +159,20 @@ nav label {
   }
 }
 
+
+
+@supports not (display: grid) {
+  .image-index li {
+    float: left;
+    width: 25%;
+  }
+
+  @media (max-width: 720px) {
+    .image-index li {
+      width: 50%;
+    }
+  }
+}
 
 .image-index a {
   display: block;
