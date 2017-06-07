@@ -8,7 +8,6 @@ categories:
 
 items:
   -
-  -
     type: image
     src: /student_assets/VerityG_1.jpg
   -
