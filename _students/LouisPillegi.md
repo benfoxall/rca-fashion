@@ -1,6 +1,6 @@
 ---
 
-name: Louis Pillegi
+name: Louis Pileggi
 
 categories:
   - womenswear
