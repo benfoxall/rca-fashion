@@ -33,6 +33,15 @@ items:
 -
   type: image
   src: /student_assets/MatijaC_9.jpg
+-
+  type: image
+  src: /student_assets/MatijaC_Film1.jpg
+  link: https://player.vimeo.com/video/220339583
+-
+  type: image
+  src: /student_assets/MatijaC_Film2.jpg
+  link: https://player.vimeo.com/video/220339849
+
 ---
 
 * [@matijacop](https://www.instagram.com/matijacop/)

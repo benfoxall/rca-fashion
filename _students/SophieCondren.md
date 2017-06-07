@@ -27,6 +27,10 @@ items:
 -
   type: image
   src: /student_assets/SophieC_7.jpg
+-
+  type: image
+  src: /student_assets/SophieC_Film1.jpg
+  link: https://player.vimeo.com/video/220497562
 
 ---
 

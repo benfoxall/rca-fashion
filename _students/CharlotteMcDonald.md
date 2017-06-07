@@ -24,6 +24,11 @@ items:
 -
   type: image
   src: /student_assets/CharlotteM_6.jpg
+-
+  type: image
+  src: /student_assets/CharlotteM_Film1.jpg
+  link: https://player.vimeo.com/video/220001523
+
 ---
 
 * [@charlotte.m.mcdonald/](https://www.instagram.com/charlotte.m.mcdonald/)

@@ -24,6 +24,10 @@ items:
 -
   type: image
   src: /student_assets/JingT_6.jpg
+-
+  type: image
+  src: /student_assets/JingY_Film1.jpg
+  link: https://player.vimeo.com/video/220339137
 
 ---
 
@@ -33,7 +37,7 @@ items:
 {: .social-links}
 
 **Describe your influences**
-A journal of time, a mirror of thoughts, reflection of desires and everyday inspirations. 
+A journal of time, a mirror of thoughts, reflection of desires and everyday inspirations.
 
 **What does the future of fashion look like?**
 Part of body.
