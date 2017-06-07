@@ -37,7 +37,7 @@ items:
 ---
 
 * [@__l.a.b__](https://www.instagram.com/__l.a.b__/)
-* [Email](mailto:l.alderson-bythell@network.rca.ac.uk)
+* [email](mailto:l.alderson-bythell@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
