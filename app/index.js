@@ -5,6 +5,9 @@ require('./intersection-observer.js')
 const qs = document.querySelector.bind(document)
 const qsa = document.querySelectorAll.bind(document)
 
+const CLOSED = 0
+const OPEN = 1
+
 class Drop {
   constructor(element) {
     this.root = element
@@ -12,15 +15,34 @@ class Drop {
     this.options = element.querySelector('.drop-options')
     this.match_size()
 
-    // this kind of works on mobile
-    this.root.addEventListener('mouseenter', () => {
-      this.options.style.display = 'block'
-      this.root.parentNode.style.zIndex = 2100
-    }, false)
 
-    this.root.addEventListener('mouseleave', () => {
+    let state = CLOSED
+    const close = () => {
       this.options.style.display = 'none'
       this.root.parentNode.style.zIndex = 2000
+      state = CLOSED
+    }
+    const open = () => {
+      this.options.style.display = 'block'
+      this.root.parentNode.style.zIndex = 2100
+      state = OPEN
+    }
+    const toggle = (e) => {
+      if(e && e.preventDefault()) e.preventDefault()
+      if(state === CLOSED) {
+        open();
+      } else {
+        close();
+      }
+    }
+
+    // this kind of works on mobile
+    this.root.addEventListener('mouseenter', open, false)
+    this.root.addEventListener('mouseleave', close, false)
+
+    this.current.addEventListener('touchstart', toggle, false)
+    document.body.addEventListener('touchstart', e => {
+      if(!this.root.contains(e.target)) close()
     }, false)
 
   }
