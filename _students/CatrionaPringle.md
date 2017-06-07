@@ -29,7 +29,7 @@ items:
 ---
 
 * [@catrionapringle](https://www.instagram.com/catrionapringle/)
-* [Email](mailto:catriona.pringle@network.rca.ac.uk)
+* [email](mailto:catriona.pringle@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
