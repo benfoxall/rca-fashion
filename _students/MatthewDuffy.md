@@ -27,7 +27,7 @@ items:
   src: /student_assets/MatthewD_6.jpg
 ---
 
-* [Email](mailto:matthew.duffy@network.rca.ac.uk)
+* [email](mailto:matthew.duffy@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
