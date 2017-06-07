@@ -8,7 +8,7 @@ categories:
 items:
   -
     type: image
-    src: /student_assets/YongyueL_1.jpg.
+    src: /student_assets/YongyueL_1.jpg
   -
     type: image
     src: /student_assets/YongyueL_2.jpg
