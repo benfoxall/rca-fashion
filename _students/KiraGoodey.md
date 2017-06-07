@@ -25,7 +25,7 @@ items:
 
 ---
 * [@kiragoodeyfootwear](https://www.instagram.com/kiragoodeyfootwear/)
-* [Email](mailto:kira.goodey@network.rca.ac.uk)
+* [email](mailto:kira.goodey@network.rca.ac.uk)
 {: .social-links}
 
 **What does the future of fashion look like?**
