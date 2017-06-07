@@ -4,7 +4,7 @@ name: Alison Hope Murray
 
 categories:
   - womenswear
-  - knitwear
+  - womenswear-knitwear
 
 items:
   -
