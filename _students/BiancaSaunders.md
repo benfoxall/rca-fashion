@@ -39,7 +39,7 @@ Inspired by sculptural work of Thomas J Price juxtaposed to classic renaissance 
 Smaller collections from designers. Consumers looking for more purpose than more clothes.
 
 **Best moment of the MA?**
-Being picked to go to Italy for Brioni.
+Being picked to go to Italy for Brioni.  
 
 **What's next?**
 Travelling then starting my own brand.
