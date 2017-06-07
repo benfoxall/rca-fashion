@@ -34,7 +34,7 @@ items:
 ---
 
 * [instagram_handle](https://www.instagram.com/__misora__/)
-* [misoranakamori.com](https://www.misoranakamori.com)
+* [misoranakamori.com](http://www.misoranakamori.com)
 * [Email](mailto:misora.nakamori@network.rca.ac.uk)
 {: .social-links}
 
