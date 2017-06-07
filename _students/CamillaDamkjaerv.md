@@ -1,6 +1,6 @@
 ---
 
-name: Camilla Damkjaerv
+name: Camilla Damkjaer
 
 categories:
   - womenswear
