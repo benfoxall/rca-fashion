@@ -31,8 +31,8 @@ items:
 ---
 
 * [@sophiecondren](https://www.instagram.com/sophiecondren/)
-* [Web](https://http://www.sophiecondren.co.uk)
-* [Email](mailto:sophie.condren@network.rca.ac.uk)
+* [sophiecondren.co.uk](https://http://www.sophiecondren.co.uk)
+* [email](mailto:sophie.condren@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
