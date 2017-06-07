@@ -38,7 +38,7 @@ items:
     src: /student_assets/AbbieS_10.jpg
 
 ---
-* [@bbie.stirrup](https://www.instagram.com/Abbie.stirrup/)
+* [@abbie.stirrup](https://www.instagram.com/Abbie.stirrup/)
 * [email](mailto:abbie.stirrup@network.rca.ac.uk)
 {: .social-links}
 
