@@ -45,7 +45,7 @@ cycling.
 Hell. Unless you take the aspect of money and commerce etc. away from fashion then the system is never going to drastically change.
 
 **Best moment of the MA?**
-Being told that i don't have to do clothes.
+Being told that I don't have to do clothes.
 
 **What's next?**
 Real Life hopefully.
