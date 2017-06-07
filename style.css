@@ -189,6 +189,7 @@ nav label {
 
 .image-index {
   margin:4em 0;
+  margin-bottom: 10em;
   padding:0;
   list-style: none;
   display: grid;
