@@ -33,7 +33,7 @@ items:
 ---
 
 * [@marcobajjali](https://www.instagram.com/marcobajjali/)
-* [Email](mailto:marco.bajjali@network.rca.ac.uk)
+* [email](mailto:marco.bajjali@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
