@@ -28,7 +28,7 @@ items:
 
 ---
 
-* [Email](mailto:everett.wong@network.rca.ac.uk)
+* [email](mailto:everett.wong@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
