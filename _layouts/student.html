@@ -44,7 +44,11 @@ layout: base
   <section class="col-right">
     <ul id="asset-list">
       {% for item in page.items %}
-         <li><img src="{{ site.baseurl }}{{item.src}}" /></h1>
+        {% if item.link %}
+          <li><a target="_blank" href="{{item.link}}"><img src="{{ site.baseurl }}{{item.src}}" /></a></li>
+        {% else %}
+          <li><img src="{{ site.baseurl }}{{item.src}}" /></li>
+        {% endif %}
       {% endfor %}
     </ul>
   </section>
