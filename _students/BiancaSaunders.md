@@ -28,7 +28,6 @@ items:
 ---
 
 * [@biancasaunders_](https://www.instagram.com/biancasaunders_/)
-* [biancasaunders.co.uk](https://www.biancasaunders.co.uk)
 * [email](mailto:bianca.saunders@network.rca.ac.uk)
 {: .social-links}
 
