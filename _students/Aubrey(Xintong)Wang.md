@@ -29,7 +29,7 @@ items:
   src: /student_assets/AubreyW_7.jpg
 
 ---
-* [@Aubruino](https://www.instagram.com/Aubruino/)
+* [@aubruino](https://www.instagram.com/Aubruino/)
 * [cargocollective.com/](https://cargocollective.com/aubreywang/About)
 * [email](mailto:xintong.wang@network.rca.ac.uk)
 {: .social-links}
