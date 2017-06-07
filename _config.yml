@@ -1,5 +1,14 @@
 # baseurl: /2017
 
+exclude:
+  - app
+  - Gemfile
+  - Gemfile.LOCK
+  - yarn.lock
+  - webpack.config.js
+  - notes.md
+  - node_modules
+
 collections:
   students:
     output: true
