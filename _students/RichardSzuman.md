@@ -9,7 +9,31 @@ categories:
 items:
   -
     type: image
-    src: /student_assets/xxxxxx.jpg
+    src: /student_assets/MathildeK_1.jpg.jpg
+  -
+    type: image
+    src: /student_assets/RichardS_2.jpg
+  -
+    type: image
+    src: /student_assets/RichardS_3.jpg
+  -
+    type: image
+    src: /student_assets/RichardS_4.jpg
+  -
+    type: image
+    src: /student_assets/RichardS_5.jpg
+  -
+    type: image
+    src: /student_assets/RichardS_6.jpg
+  -
+    type: image
+    src: /student_assets/RichardS_7.jpg
+  -
+    type: image
+    src: /student_assets/RichardS_8.jpg
+  -
+    type: image
+    src: /student_assets/RichardS_9.jpg
 
 ---
 
