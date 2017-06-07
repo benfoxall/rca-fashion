@@ -27,7 +27,7 @@ items:
 
 ---
 
-* [Email](mailto:kayoon.kim@network.rca.ac.uk)
+* [email](mailto:kayoon.kim@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
