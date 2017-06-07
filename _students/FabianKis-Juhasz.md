@@ -20,7 +20,7 @@ items:
     src: /student_assets/FabianK_4.jpg
 ---
 * [@fabiankisjuhasz](https://www.instagram.com/fabiankisjuhasz/)
-* [Email](mailto:fabian.kis-juhasz@network.rca.ac.uk)
+* [email](mailto:fabian.kis-juhasz@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
