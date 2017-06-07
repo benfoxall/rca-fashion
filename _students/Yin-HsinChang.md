@@ -33,7 +33,7 @@ items:
   src: /student_assets/YinH_8.jpg
 ---
 
-* [Email](mailto:yin-hsin.chang@network.rca.ac.uk)
+* [email](mailto:yin-hsin.chang@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
