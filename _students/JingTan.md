@@ -14,7 +14,7 @@ items:
 ---
 
 * [@jingsophiaa.t](https://www.instagram.com/jingsophiaa.t/)
-* [Email](mailto:jing.tan@network.rca.ac.uk)
+* [email](mailto:jing.tan@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
