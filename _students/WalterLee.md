@@ -39,7 +39,7 @@ items:
 ---
 
 * [@walter.lee](https://www.instagram.com/walter.lee/)
-* [Email](mailto:walter.lee@network.rca.ac.uk)
+* [email](mailto:walter.lee@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
