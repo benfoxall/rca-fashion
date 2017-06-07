@@ -36,7 +36,7 @@ items:
 ---
 
 * [@matijacop](https://www.instagram.com/matijacop/)
-* [Email](mailto:matija.cop@network.rca.ac.uk)
+* [email](mailto:matija.cop@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
