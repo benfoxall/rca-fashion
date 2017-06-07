@@ -25,7 +25,7 @@ items:
 ---
 
 * [@shashawong5](https://www.instagram.com/shashawong5/)
-* [Email](mailto:shasha.wong@network.rca.ac.uk)
+* [email](mailto:shasha.wong@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
