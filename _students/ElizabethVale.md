@@ -34,7 +34,7 @@ items:
 
 * [@eddy.studio](https://www.instagram.com/eddy.studio/)
 * [Web](https://www.eddy-studio.com)
-* [Email](mailto:elizabeth.vale@network.rca.ac.uk)
+* [email](mailto:elizabeth.vale@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
