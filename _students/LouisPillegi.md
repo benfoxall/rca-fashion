@@ -35,7 +35,7 @@ items:
 ---
 
 * [@louispileggi](https://www.instagram.com/louispileggi/)
-* [Email](mailto:louis.pileggi@network.rca.ac.uk)
+* [email](mailto:louis.pileggi@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
