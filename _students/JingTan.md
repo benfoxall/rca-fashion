@@ -22,13 +22,7 @@ items:
   -
     type: image
     src: /student_assets/JingT_5.jpg
-  -
-    type: image
-    src: /student_assets/JingT_6.jpg
-  -
-    type: image
-    src: /student_assets/JingT_7.jpg
-    
+
 ---
 
 * [@jingsophiaa.t](https://www.instagram.com/jingsophiaa.t/)

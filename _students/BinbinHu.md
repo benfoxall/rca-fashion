@@ -25,12 +25,6 @@ items:
 -
   type: image
   src: /student_assets/BinbinH_6.jpg
--
-  type: image
-  src: /student_assets/BinbinH_7.jpg
--
-  type: image
-  src: /student_assets/BinbinH_8.jpg
 
 ---
 
