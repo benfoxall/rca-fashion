@@ -33,7 +33,7 @@ items:
 ---
 
 * [@eddy.studio](https://www.instagram.com/eddy.studio/)
-* [Web](https://www.eddy-studio.com)
+* [eddy-studio.com](https://www.eddy-studio.com)
 * [email](mailto:elizabeth.vale@network.rca.ac.uk)
 {: .social-links}
 
