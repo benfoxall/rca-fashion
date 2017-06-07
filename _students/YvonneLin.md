@@ -8,7 +8,31 @@ categories:
 items:
   -
     type: image
-    src: /student_assets/xxxxxx.jpg
+    src: /student_assets/YongyueL__1.jpg.
+  -
+    type: image
+    src: /student_assets/YongyueL__2.jpg
+  -
+    type: image
+    src: /student_assets/YongyueL__3.jpg
+  -
+    type: image
+    src: /student_assets/YongyueL__4.jpg
+  -
+    type: image
+    src: /student_assets/YongyueL__5.jpg
+  -
+    type: image
+    src: /student_assets/YongyueL__6.jpg
+  -
+    type: image
+    src: /student_assets/YongyueL__7.jpg
+  -
+    type: image
+    src: /student_assets/YongyueL__8.jpg
+  -
+    type: image
+    src: /student_assets/YongyueL__9.jpg
 
 ---
 
