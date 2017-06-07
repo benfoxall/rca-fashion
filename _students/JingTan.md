@@ -9,7 +9,7 @@ categories:
 items:
   -
     type: image
-    src: /student_assets/JingT_1.jpg.jpg
+    src: /student_assets/JingT_1.jpg
   -
     type: image
     src: /student_assets/JingT_2.jpg
