@@ -35,7 +35,7 @@ items:
 
 * [@tingtingtingzz](https://www.instagram.com/tingtingtingzz/)
 * [tingtingzhang.co.uk](https://www.tingtingzhang.co.uk)
-* [Email](mailto:tingting.zhang@network.rca.ac.uk)
+* [email](mailto:tingting.zhang@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
