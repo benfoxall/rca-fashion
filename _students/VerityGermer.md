@@ -46,7 +46,7 @@ items:
 
 * [instagram_handle](https://www.instagram.com/veritycsg/)
 * [veritygermer.co.uk](https://www.veritygermer.co.uk)
-* [Email](mailto:verity.germer@network.rca.ac.uk)
+* [email](mailto:verity.germer@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
