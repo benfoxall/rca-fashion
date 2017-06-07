@@ -27,7 +27,7 @@ items:
 ---
 
 * [@charlotte.m.mcdonald/](https://www.instagram.com/charlotte.m.mcdonald/)
-* [cmmstudio.co.uk](https://www.cmmstudio.co.uk)
+* [cmmstudio.co.uk](http://www.cmmstudio.co.uk)
 * [email](mailto:charlotte.mcdonald@network.rca.ac.uk)
 {: .social-links}
 
