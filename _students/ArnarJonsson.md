@@ -33,7 +33,7 @@ items:
 
 ---
 
-* [Email](mailto:arnar.jonsson@network.rca.ac.uk)
+* [email](mailto:arnar.jonsson@network.rca.ac.uk)
 {: .social-links}
 
 
