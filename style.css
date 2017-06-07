@@ -15,6 +15,7 @@
 body {
   font-family: BentonSans-Bold, arial, sans-serif;
   -webkit-font-smoothing: antialiased;
+  margin:0;
 }
 
 body:before {
@@ -192,11 +193,12 @@ nav label {
 
 main {
   max-width: 50em;
-  margin: 5vh auto;
+  margin: 0 auto;
 }
 
 
 .side-copy {
+  padding: 5vh 2em;
   width: 15em;
 }
 
@@ -258,11 +260,15 @@ main {
 }
 
 #asset-list li {
-  min-height: 100vh
+  min-height: 100vh;
+  position: relative;
 }
 
 #asset-list li img {
-  object-fit: scale-down;
+  /*object-fit: scale-down;*/
   max-width: 100%;
   max-height: 80vh;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
