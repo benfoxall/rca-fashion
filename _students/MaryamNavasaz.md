@@ -33,7 +33,7 @@ items:
   src: /student_assets/MaryamN_8.jpg
 ---
 
-* [Email](mailto:maryam.navasaz@network.rca.ac.uk)
+* [email](mailto:maryam.navasaz@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
