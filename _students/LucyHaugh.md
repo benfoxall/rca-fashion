@@ -26,7 +26,7 @@ items:
 ---
 
 * [lucy_haugh](https://www.instagram.com/lucy_haugh/)
-* [Email](mailto:lucy.haugh@network.rca.ac.uk)
+* [email](mailto:lucy.haugh@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
