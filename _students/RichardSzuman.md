@@ -9,7 +9,7 @@ categories:
 items:
   -
     type: image
-    src: /student_assets/MathildeK_1.jpg.jpg
+    src: /student_assets/RichardS_1.jpg
   -
     type: image
     src: /student_assets/RichardS_2.jpg
