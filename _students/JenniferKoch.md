@@ -42,4 +42,4 @@ I hope that fashion will go back to being a medium to express hopes, fears and o
 The most moving moment is seeing your work as a whole line up and realising what you achieved and how far you have developed in 2 years.
 
 **What's next?**
-I need a week to calm and fully realise what happened the last two years. I want to work freelance to continue to express myself whilst having the opportunity to work alongside other creatives.
+I need a week to calm and fully realise what happened in the last two years. I want to work freelance to continue to express myself whilst having the opportunity to work alongside other creatives.
