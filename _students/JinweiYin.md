@@ -28,7 +28,7 @@ items:
 ---
 
 * [@jingweiyin](https://www.instagram.com/jingweiyin/)
-* [jingweiyin.com](https://www.jingweiyin.com)
+* [jingweiyin.com](http://www.jingweiyin.com)
 * [email](mailto:jingwei.yin@network.rca.ac.uk)
 {: .social-links}
 
