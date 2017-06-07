@@ -8,7 +8,25 @@ categories:
 items:
   -
     type: image
-    src: /student_assets/xxxxxx.jpg
+    src: /student_assets/MathildeK_1.jpg
+  -
+    type: image
+    src: /student_assets/MathildeK_2.jpg
+  -
+    type: image
+    src: /student_assets/MathildeK_3.jpg
+  -
+    type: image
+    src: /student_assets/MathildeK_4.jpg
+  -
+    type: image
+    src: /student_assets/MathildeK_5.jpg
+  -
+    type: image
+    src: /student_assets/MathildeK_6.jpg
+  -
+    type: image
+    src: /student_assets/MathildeK_7.jpg
 
 ---
 
