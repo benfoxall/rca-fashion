@@ -31,7 +31,7 @@ items:
 ---
 
 * [@sophiecondren](https://www.instagram.com/sophiecondren/)
-* [sophiecondren.co.uk](https://http://www.sophiecondren.co.uk)
+* [sophiecondren.co.uk](http://http://www.sophiecondren.co.uk)
 * [email](mailto:sophie.condren@network.rca.ac.uk)
 {: .social-links}
 
