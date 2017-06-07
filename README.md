@@ -11,6 +11,6 @@ npm install
 npm install -g npx
 npx webpack --watch
 
-
-# build site
+# build site for production (note, build destination outside project)
+jekyll build --baseurl /2017 -d ~/rca-2017
 ```
