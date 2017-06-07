@@ -34,7 +34,7 @@ items:
 
 ---
 
-* [Email](mailto:binbin.hu@network.rca.ac.uk)
+* [email](mailto:binbin.hu@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
