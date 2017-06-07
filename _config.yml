@@ -4,6 +4,7 @@ exclude:
   - app
   - Gemfile
   - Gemfile.LOCK
+  - package.json
   - yarn.lock
   - webpack.config.js
   - notes.md
