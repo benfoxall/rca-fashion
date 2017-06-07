@@ -9,8 +9,25 @@ categories:
 items:
   -
     type: image
-    src: /student_assets/JingT_1.jpg
-
+    src: /student_assets/JingT_1.jpg.jpg
+  -
+    type: image
+    src: /student_assets/JingT_2.jpg
+  -
+    type: image
+    src: /student_assets/JingT_3.jpg
+  -
+    type: image
+    src: /student_assets/JingT_4.jpg
+  -
+    type: image
+    src: /student_assets/JingT_5.jpg
+  -
+    type: image
+    src: /student_assets/JingT_6.jpg
+  -
+    type: image
+    src: /student_assets/JingT_7.jpg
 ---
 
 * [@jingsophiaa.t](https://www.instagram.com/jingsophiaa.t/)
