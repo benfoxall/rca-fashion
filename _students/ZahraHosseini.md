@@ -13,7 +13,7 @@ items:
 ---
 
 * [@zs.hoss](https://www.instagram.com/zs.hoss/)
-* [Email](mailto:zahra.hosseini@network.rca.ac.uk.rca.ac.uk)
+* [email](mailto:zahra.hosseini@network.rca.ac.uk.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
