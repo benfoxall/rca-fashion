@@ -32,7 +32,7 @@ items:
 ---
 
 * [@bettywhenyoucallme](https://www.instagram.com/bettywhenyoucallme/)
-* [bettywhenyoucallme.com](https://www.bettywhenyoucallme.com.com)
+* [bettywhenyoucallme.com](https://www.bettywhenyoucallme.com)
 * [email](mailto:alison.hopemurray@network.rca.ac.uk)
 {: .social-links}
 
