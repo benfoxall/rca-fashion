@@ -4,7 +4,7 @@ name: Ellie Rousseau
 
 categories:
   - menswear
-  - Knitwear
+  - knitwear
 
 items:
   -
