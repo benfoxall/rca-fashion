@@ -29,7 +29,7 @@ items:
 {: .social-links}
 
 **What does the future of fashion look like?**
-We are on the brink of a paradigm shift in terms of the way fashion is designed, manufactured and sold – one that will usurp the ready-to-wear mass produced culture currently in place. This movement will be much more grassroots and empowering to smaller manufacturers. I believe the collision of technology and a resurgence of craft – a desire for personalised items and the human touch – will lead to a new manufacturing systems based around networked cottage industries.
+We are on the brink of a paradigm shift in terms of the way fashion is designed, manufactured and sold – one that will usurp the ready-to-wear mass produced culture currently in place. This movement will be much more grassroots and empowering to smaller manufacturers. I believe the collision of technology and a resurgence of craft – a desire for personalised items and the human touch – will lead to new manufacturing systems based around networked cottage industries.
 
 **Best moment of the MA?**
 The highlight of my MA has without question been the opportunities given for travel and the incredible creatives and industry people that I have been exposed to. The door that the RCA has opened for me already has been astonishing and I am excited for the future that the RCA has prepared me for.
