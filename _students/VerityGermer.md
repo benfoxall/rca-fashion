@@ -44,7 +44,7 @@ items:
 ---
 
 * [instagram_handle](https://www.instagram.com/veritycsg/)
-* [veritygermer.co.uk](https://www.veritygermer.co.uk)
+* [veritygermer.co.uk](http://www.veritygermer.co.uk)
 * [email](mailto:verity.germer@network.rca.ac.uk)
 {: .social-links}
 
