@@ -3,8 +3,8 @@
 name: Georgia Coxon
 
 categories:
-  - Menswear
-  - Menswear-Footwear
+  - menswear
+  - menswear-Footwear
 
 items:
 -
