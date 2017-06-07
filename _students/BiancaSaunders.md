@@ -33,7 +33,7 @@ items:
 {: .social-links}
 
 **Describe your influences**
-The collection is about defining contemporary black masculinity. In order to create another viewpoint to where it stands. Through interviewing male friends that are challenging the stereotypes of hyper masculinity and how that is internalised. Offering clothes  that are masculine and play with the spectrum of masculinity boarding on what can be seen as feminine nuances.  Inspired by sculptural work of Thomas J Price juxtaposed to classic renaissance greek sculpture of men.
+The collection is about defining contemporary black masculinity. In order to create another viewpoint to where it stands. Through interviewing male friends that are challenging the stereotypes of hyper masculinity and how that is internalised. Offering clothes that are masculine and play with the spectrum of masculinity boarding on what can be seen as feminine nuances. Inspired by sculptural work of Thomas J Price juxtaposed to classic renaissance greek sculpture of men.
 
 **What does the future of fashion look like?**
 More fashion design in art galleries. 
