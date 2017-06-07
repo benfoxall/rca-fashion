@@ -8,31 +8,31 @@ categories:
 items:
   -
     type: image
-    src: /student_assets/YongyueL__1.jpg.
+    src: /student_assets/YongyueL_1.jpg.
   -
     type: image
-    src: /student_assets/YongyueL__2.jpg
+    src: /student_assets/YongyueL_2.jpg
   -
     type: image
-    src: /student_assets/YongyueL__3.jpg
+    src: /student_assets/YongyueL_3.jpg
   -
     type: image
-    src: /student_assets/YongyueL__4.jpg
+    src: /student_assets/YongyueL_4.jpg
   -
     type: image
-    src: /student_assets/YongyueL__5.jpg
+    src: /student_assets/YongyueL_5.jpg
   -
     type: image
-    src: /student_assets/YongyueL__6.jpg
+    src: /student_assets/YongyueL_6.jpg
   -
     type: image
-    src: /student_assets/YongyueL__7.jpg
+    src: /student_assets/YongyueL_7.jpg
   -
     type: image
-    src: /student_assets/YongyueL__8.jpg
+    src: /student_assets/YongyueL_8.jpg
   -
     type: image
-    src: /student_assets/YongyueL__9.jpg
+    src: /student_assets/YongyueL_9.jpg
 
 ---
 
