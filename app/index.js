@@ -1,5 +1,7 @@
 var FontFaceObserver = require('fontfaceobserver')
 
+require('./intersection-observer.js')
+
 const qs = document.querySelector.bind(document)
 const qsa = document.querySelectorAll.bind(document)
 
@@ -13,10 +15,14 @@ class Drop {
     // this kind of works on mobile
     this.root.addEventListener('mouseenter', () => {
       this.options.style.display = 'block'
+      this.root.parentNode.style.zIndex = 2100
     }, false)
+
     this.root.addEventListener('mouseleave', () => {
       this.options.style.display = 'none'
+      this.root.parentNode.style.zIndex = 2000
     }, false)
+
   }
 
   match_size() {
@@ -51,3 +57,16 @@ font.load().then(function () {
 
 // TODO
 // const assetList = qs('#asset-list')
+
+
+
+var observer = new IntersectionObserver((intersections)=> {
+  intersections.forEach(intersect => {
+    intersect.target.classList.toggle('offscreen', !intersect.isIntersecting)
+  })
+})
+
+Array.from(document.querySelectorAll('#asset-list li'))
+.forEach(img => {
+  observer.observe(img);
+})
