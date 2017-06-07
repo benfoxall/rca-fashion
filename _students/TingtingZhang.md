@@ -50,4 +50,4 @@ Lift me up, light me up, warm me up.
 I could be entirely happy, and welcome the new member of my Hat crew.
 
 **What's next?**
-I have set my company with my business partner. We are going to broaden the Hat crew to the world. This world needs hats. Because they are slogans, they are full of spirits, they are forever on the top. And of course, they are indeed cute!(forgive me, it is mega important for an Asian -w-)
+I have set my company with my business partner. We are going to broaden the Hat crew to the world. This world needs hats. Because they are slogans, they are full of spirits, they are forever on the top. And of course, they are indeed cute! (forgive me, it is mega important for an Asian -w-)
