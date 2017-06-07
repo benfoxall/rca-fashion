@@ -41,7 +41,7 @@ items:
 
 * [@hankimhan](https://www.instagram.com/hankimhan/)
 * [hankim.co.uk](https://www.hankim.co.uk)
-* [Email](mailto:han.kim@network.rca.ac.uk)
+* [email](mailto:han.kim@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
