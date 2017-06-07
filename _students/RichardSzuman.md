@@ -38,7 +38,7 @@ items:
 ---
 
 * [@Szumanman](https://www.instagram.com/Szumanman/)
-* [Email](mailto:richard.szuman@network.rca.ac.uk)
+* [email](mailto:richard.szuman@network.rca.ac.uk)
 {: .social-links}
 
 **Describe your influences**
