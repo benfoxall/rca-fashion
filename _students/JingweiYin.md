@@ -8,22 +8,22 @@ categories:
 items:
 -
   type: image
-  src: /student_assets/JingT_1.jpg
+  src: /student_assets/JingweiY_1.jpg
 -
   type: image
-  src: /student_assets/JingT_2.jpg
+  src: /student_assets/JingweiY_2.jpg
 -
   type: image
-  src: /student_assets/JingT_3.jpg
+  src: /student_assets/JingweiY_3.jpg
 -
   type: image
-  src: /student_assets/JingT_4.jpg
+  src: /student_assets/JingweiY_4.jpg
 -
   type: image
-  src: /student_assets/JingT_5.jpg
+  src: /student_assets/JingweiY_5.jpg
 -
   type: image
-  src: /student_assets/JingT_6.jpg
+  src: /student_assets/JingweiY_6.jpg
 -
   type: image
   src: /student_assets/JingY_Film1.jpg
