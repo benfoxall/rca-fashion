@@ -1,6 +1,6 @@
 ---
 
-name: Louis Anderson-Bythell
+name: Louis Alderson-Bythell
 
 categories:
   - womenswear
